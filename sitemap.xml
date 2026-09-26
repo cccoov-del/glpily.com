@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://glpily.com/</loc>
 <lastmod>2026-09-26</lastmod>
@@ -23,5 +23,305 @@
 <lastmod>2026-09-26</lastmod>
 <changefreq>yearly</changefreq>
 <priority>0.2</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/lbs-to-kg/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/lbs-to-kg/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/converter-libras-para-kg/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/convertir-libras-a-kilos/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/lbs-to-kg/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/kg-to-lbs/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/kg-to-lbs/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/converter-kg-para-libras/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/convertir-kilos-a-libras/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/kg-to-lbs/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/weight-loss-percentage-calculator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-loss-percentage-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-porcentagem-perda-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-porcentaje-peso-perdido/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-loss-percentage-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/bmi-calculator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/bmi-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-imc/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-imc/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/bmi-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/goal-weight-calculator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/goal-weight-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-meta-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-peso-meta/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/goal-weight-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/weight-loss-progress-calculator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-loss-progress-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-progresso-emagrecimento/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-progreso-bajar-de-peso/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-loss-progress-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/weight-trend-calculator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-trend-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/grafico-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/grafica-de-peso/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-trend-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/protein-calculator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/protein-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-de-proteina/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-de-proteina/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/protein-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/tools/water-intake-calculator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/water-intake-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-de-agua/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-de-agua/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/water-intake-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/converter-libras-para-kg/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/lbs-to-kg/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/converter-libras-para-kg/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/convertir-libras-a-kilos/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/lbs-to-kg/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/converter-kg-para-libras/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/kg-to-lbs/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/converter-kg-para-libras/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/convertir-kilos-a-libras/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/kg-to-lbs/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/calculadora-porcentagem-perda-de-peso/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-loss-percentage-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-porcentagem-perda-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-porcentaje-peso-perdido/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-loss-percentage-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/calculadora-imc/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/bmi-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-imc/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-imc/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/bmi-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/calculadora-meta-de-peso/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/goal-weight-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-meta-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-peso-meta/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/goal-weight-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/calculadora-progresso-emagrecimento/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-loss-progress-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-progresso-emagrecimento/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-progreso-bajar-de-peso/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-loss-progress-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/grafico-de-peso/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-trend-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/grafico-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/grafica-de-peso/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-trend-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/calculadora-de-proteina/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/protein-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-de-proteina/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-de-proteina/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/protein-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/pt-br/ferramentas/calculadora-de-agua/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/water-intake-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-de-agua/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-de-agua/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/water-intake-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/convertir-libras-a-kilos/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/lbs-to-kg/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/converter-libras-para-kg/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/convertir-libras-a-kilos/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/lbs-to-kg/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/convertir-kilos-a-libras/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/kg-to-lbs/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/converter-kg-para-libras/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/convertir-kilos-a-libras/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/kg-to-lbs/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/calculadora-porcentaje-peso-perdido/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-loss-percentage-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-porcentagem-perda-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-porcentaje-peso-perdido/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-loss-percentage-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/calculadora-imc/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/bmi-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-imc/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-imc/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/bmi-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/calculadora-peso-meta/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/goal-weight-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-meta-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-peso-meta/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/goal-weight-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/calculadora-progreso-bajar-de-peso/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-loss-progress-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-progresso-emagrecimento/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-progreso-bajar-de-peso/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-loss-progress-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/grafica-de-peso/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/weight-trend-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/grafico-de-peso/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/grafica-de-peso/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/weight-trend-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/calculadora-de-proteina/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/protein-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-de-proteina/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-de-proteina/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/protein-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://glpily.com/es/herramientas/calculadora-de-agua/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://glpily.com/tools/water-intake-calculator/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://glpily.com/pt-br/ferramentas/calculadora-de-agua/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://glpily.com/es/herramientas/calculadora-de-agua/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://glpily.com/tools/water-intake-calculator/" />
+<lastmod>2026-09-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 </urlset>
