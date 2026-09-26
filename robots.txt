@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /app/
+Disallow: /r-c5f01fa30835/
+
+Sitemap: https://glpily.com/sitemap.xml
