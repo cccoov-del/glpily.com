@@ -4,4 +4,4 @@
 :HL["/_next/static/chunks/0muppiartxec8.css","style"]
 :HL["/_next/static/chunks/3ny_46t_hgh3_.css","style"]
 :HL["/google-play-badge.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"calculators","param":null,"prefetchHints":4192,"slots":{"children":{"name":"calorie-calculator","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"bsuxTIVvBhfxwddqQjoFK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"calculators","param":null,"prefetchHints":4192,"slots":{"children":{"name":"calorie-calculator","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"itvXqKt53Fi3XlU0pHLMm"}
