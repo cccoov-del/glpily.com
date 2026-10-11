@@ -2,6 +2,6 @@
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/a85fe84266768609-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/3ny_46t_hgh3_.css","style"]
-:HL["/blog/clinical-03.webp","image",{"imageSrcSet":"/blog/clinical-03-320.webp 480w, /blog/clinical-03.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+:HL["/blog/wegovy-hd-7-2-mg-explained.webp","image",{"imageSrcSet":"/blog/wegovy-hd-7-2-mg-explained-320.webp 480w, /blog/wegovy-hd-7-2-mg-explained.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
 :HL["/google-play-badge.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"wegovy-hd-7-2-mg-explained","siblings":["category"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"bkEJdj_l9bOyAFA2SATQo"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"wegovy-hd-7-2-mg-explained","siblings":["category"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"lpv_0XKLnDP0pnKXzMd6J"}
