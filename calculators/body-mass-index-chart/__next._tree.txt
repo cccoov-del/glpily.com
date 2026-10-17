@@ -4,4 +4,4 @@
 :HL["/_next/static/chunks/0muppiartxec8.css","style"]
 :HL["/_next/static/chunks/14oo0nclugt_0.css","style"]
 :HL["/google-play-badge.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"calculators","param":null,"prefetchHints":4192,"slots":{"children":{"name":"body-mass-index-chart","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"QaPC2LJIgabl5DXkAveK4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"calculators","param":null,"prefetchHints":4192,"slots":{"children":{"name":"body-mass-index-chart","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"sI1gQgJLxJLVgUzQSLQi0"}
