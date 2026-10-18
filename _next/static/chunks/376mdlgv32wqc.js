@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,45288,e=>{"use strict";let t="glpily-owner";e.s(["isOwnerDevice",0,()=>{try{return"1"===localStorage.getItem(t)}catch{return!1}},"markOwnerDevice",0,()=>{try{localStorage.setItem(t,"1")}catch{}}])}]);
