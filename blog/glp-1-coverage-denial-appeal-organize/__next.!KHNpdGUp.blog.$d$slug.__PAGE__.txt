@@ -1,0 +1,226 @@
+1:"$Sreact.fragment"
+2:I[90031,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],"ViewPing"]
+4:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],""]
+:HL["/blog/glp-1-coverage-denial-appeal-organize.webp","image",{"imageSrcSet":"/blog/glp-1-coverage-denial-appeal-organize-320.webp 480w, /blog/glp-1-coverage-denial-appeal-organize.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+3:T58e,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"GLP-1 Denied by Insurance? How to Organize Your Appeal","description":"GLP-1 denied by insurance? Decode the reason, find your appeal deadline (180 days, 65 days or none), build the packet and use our cover-letter template.","url":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize/","mainEntityOfPage":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize/","image":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize.webp","datePublished":"2026-10-27","dateModified":"2026-10-27","author":{"@type":"Organization","name":"GLPily Editorial Team","url":"https://glpily.com"},"publisher":{"@type":"Organization","name":"GLPily","logo":{"@type":"ImageObject","url":"https://glpily.com/icon-512.png"}},"articleSection":"Guides","keywords":"GLP-1 insurance denial appeal, Wegovy denied by insurance appeal, Zepbound prior authorization denied, how to appeal GLP-1 denial, external review GLP-1","inLanguage":"en-US"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://glpily.com/blog/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://glpily.com/blog/category/guides/"},{"@type":"ListItem","position":3,"name":"GLP-1 Denied by Insurance? How to Organize Your Appeal","item":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize/"}]}]}a:X
+f:X
+f:C
+0:{"buildId":"9Q2cl1A9kptHbLYnte8jc","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog","children":[["$","$L2",null,{"slug":"glp-1-coverage-denial-appeal-organize"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","article",null,{"children":[["$","header",null,{"className":"art-hero container-wide","children":[["$","div",null,{"className":"art-hero-copy","children":[["$","ol",null,{"className":"crumbs","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/category/guides/","children":"Guides"}]}],["$","li",null,{"aria-current":"page","children":"GLP-1 Denied by Insurance? How to Organize Your Appeal"}]]}],["$","div",null,{"className":"art-meta-top","children":[["$","span",null,{"className":"pill-tag mint","children":"Guides"}],null,["$","span",null,{"className":"read","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}],["$","h1",null,{"children":"GLP-1 Denied by Insurance? How to Organize Your Appeal"}],["$","p",null,{"className":"lead","children":"A GLP-1 denial letter is a to-do list in disguise. Find the reason code, the deadline and the right appeal track, then build a packet that answers that exact reason. Cover-letter template included."}],["$","p",null,{"className":"byline","children":[["$","span",null,{"className":"avatar-dot","aria-hidden":"true","children":"♡"}],["$","span",null,{"children":[["$","b",null,{"children":["By ","GLPily Editorial Team"]}],["$","br",null,{}],["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],null]}]]}]]}],["$","div",null,{"className":"art-hero-img","children":[["$","span",null,{"className":"script","aria-hidden":"true","children":"Answer the reason they gave ♡"}],["$","img",null,{"className":"post-img","src":"/blog/glp-1-coverage-denial-appeal-organize.webp","srcSet":"/blog/glp-1-coverage-denial-appeal-organize-320.webp 480w, /blog/glp-1-coverage-denial-appeal-organize.webp 960w","sizes":"(max-width: 960px) 100vw, 500px","alt":"A woman at a kitchen counter calmly sorting papers into three neat piles with sticky notes, a laptop open beside her.","width":960,"height":640,"loading":"eager","fetchPriority":"high","decoding":"async"}]]}]]}],"$L5"]}]]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$a","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+1f:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+23:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+24:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+25:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+26:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[46263,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Nav"]
+28:I[69925,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"FooterBody"]
+29:I[75146,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Analytics"]
+:HL["/_next/static/chunks/3-b83rfoml2bs.css","style"]
+:HL["/_next/static/chunks/3c_ik8-42mq3-.css","style"]
+18:T1dbc,<p>To appeal a GLP-1 denial, start with the letter: find the <strong>exact reason</strong> and the <strong>deadline</strong>, then send an appeal that answers that reason with the right records. Most job-based and Marketplace plans give you <strong>180 days</strong> to file an internal appeal. Medicare Part D gives <strong>65 days</strong>. The Medicare GLP-1 Bridge has <strong>no appeals process</strong> at all, only a corrected resubmission by your prescriber. Here&#39;s how to sort it out without drowning in paper.</p>
+<p>If you&#39;re still waiting on a first decision, our <a href="/blog/glp-1-prior-authorization-paperwork-checklist/">prior authorization checklist</a> is the better starting point. This guide is about organizing an appeal, not legal advice. Your notice and plan documents always win over anything written here.</p>
+<h2 id="step-1-what-does-the-glp-1-denial-reason-actually-mean">Step 1: What does the GLP-1 denial reason actually mean?</h2>
+<p>Denial letters tend to fall into a handful of buckets. Each needs a different response:</p>
+<table>
+<thead>
+<tr>
+<th>What the letter says (roughly)</th>
+<th>What it usually means</th>
+<th>Best next move</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Not a covered benefit&quot; / &quot;plan exclusion&quot;</td>
+<td>The plan doesn&#39;t pay for this drug for this use at all (check the <a href="/blog/read-health-plan-formulary-glp-1/">formulary and exclusions</a>)</td>
+<td>Ask whether any exception exists; if not, appeals rarely change exclusions. Plan for alternatives and open enrollment</td>
+</tr>
+<tr>
+<td>&quot;Criteria not met&quot;</td>
+<td>The plan&#39;s prior authorization checklist wasn&#39;t satisfied</td>
+<td>Find which criterion; your prescriber supplies records showing it&#39;s met (if it is)</td>
+</tr>
+<tr>
+<td>&quot;Insufficient information&quot;</td>
+<td>Something was missing or unreadable</td>
+<td>Often fastest to fix: ask which item, then resubmit or appeal with it</td>
+</tr>
+<tr>
+<td>&quot;Step therapy required&quot; / &quot;use preferred product&quot;</td>
+<td>The plan wants a different drug tried first</td>
+<td>Prescriber explains why the preferred drug isn&#39;t appropriate, or discusses trying it</td>
+</tr>
+<tr>
+<td>&quot;Not medically necessary&quot;</td>
+<td>A reviewer judged the criteria unmet on medical grounds</td>
+<td>Prescriber&#39;s letter plus records; this kind of denial can usually go to external review</td>
+</tr>
+<tr>
+<td>&quot;Quantity/dose limit&quot;</td>
+<td>The amount or strength exceeds the plan&#39;s limit</td>
+<td>Prescriber explains the dose against the label and plan rules</td>
+</tr>
+</tbody></table>
+<p>If any term is unclear, call the plan and ask: &quot;Which policy section was applied, and which criterion wasn&#39;t met?&quot; Write down the answer.</p>
+<h2 id="step-2-which-appeal-track-are-you-on-and-what-39-s-the-deadline">Step 2: Which appeal track are you on, and what&#39;s the deadline?</h2>
+<table>
+<thead>
+<tr>
+<th>Your coverage</th>
+<th>First step</th>
+<th>Deadline to file</th>
+<th>How fast they decide</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Job-based or Marketplace plan</strong></td>
+<td>Internal appeal to the plan</td>
+<td><strong>180 days</strong> from the denial notice</td>
+<td>30 days if you haven&#39;t received the drug yet; 72 hours (up to 4 business days) if urgent</td>
+</tr>
+<tr>
+<td>…then if still denied</td>
+<td><strong>External review</strong> by an independent reviewer</td>
+<td><strong>4 months</strong> after the final denial</td>
+<td>Up to 45 days standard; 72 hours expedited</td>
+</tr>
+<tr>
+<td><strong>Medicare Part D</strong> (including Medicare Advantage drug coverage)</td>
+<td>Redetermination by the plan</td>
+<td><strong>65 days</strong> from the notice</td>
+<td>7 days standard; 72 hours expedited</td>
+</tr>
+<tr>
+<td>…then if still denied</td>
+<td>Independent Review Entity, then further levels</td>
+<td>60 days (per Medicare.gov)</td>
+<td>Varies by level</td>
+</tr>
+<tr>
+<td><strong>Medicare GLP-1 Bridge</strong></td>
+<td><strong>No appeals process</strong></td>
+<td>—</td>
+<td>Prescriber may resubmit with corrected or new information; decision within 72 hours</td>
+</tr>
+<tr>
+<td><strong>Medicaid</strong></td>
+<td>State fair hearing process</td>
+<td>On your notice</td>
+<td>Varies by state</td>
+</tr>
+</tbody></table>
+<p>A few details that matter:</p>
+<ul>
+<li><strong>External review</strong> is mainly for denials involving medical judgment, such as medical necessity or treatment appropriateness. A straightforward &quot;this drug is excluded&quot; decision may not qualify. Your final denial letter has to explain whether and how to request it.</li>
+<li><strong>Your insurer must accept</strong> an external reviewer&#39;s decision, according to HealthCare.gov. Under the HHS-run process it&#39;s free; state or contracted processes can charge up to $25.</li>
+<li><strong>Medicare Bridge vs Part D:</strong> if a Bridge request was turned down because of a condition like type 2 diabetes, that request belongs with your Part D plan instead. See <a href="/blog/medicare-bridge-vs-part-d-glp-1/">Bridge or regular Part D?</a></li>
+</ul>
+<p>Put the deadline in your calendar <strong>today</strong>, with a reminder a week before.</p>
+<h2 id="step-3-build-the-appeal-packet">Step 3: Build the appeal packet</h2>
+<p>Think of the packet as a folder with five pockets:</p>
+<ol>
+<li><strong>The denial notice</strong> (or Explanation of Benefits) and any policy language they cited</li>
+<li><strong>Your appeal request</strong>: the plan&#39;s form, or a letter (template below)</li>
+<li><strong>Your prescriber&#39;s letter</strong> explaining how you meet the criteria, or why the exception is appropriate</li>
+<li><strong>Supporting records</strong> that answer the stated reason, such as dated BMI, the relevant diagnoses or proof of a lifestyle program, and nothing more</li>
+<li><strong>Your call log and submission proof</strong>: fax confirmations, portal screenshots, certified-mail receipts</li>
+</ol>
+<p>HealthCare.gov&#39;s own list includes your name, claim number and insurance ID, any doctor letter, copies of everything, and notes from calls (date, time, name and title of the person). If someone files for you, the plan may need a signed authorization form.</p>
+<p><strong>Accuracy beats volume.</strong> Don&#39;t pad the story or guess at dates. If a criterion truly isn&#39;t met, say so to your prescriber and talk about other options instead.</p>
+<h2 id="cover-letter-template-fill-in-the-brackets">Cover-letter template (fill in the brackets)</h2>
+<blockquote>
+<p><strong>Re: Request for internal appeal</strong>
+Member name: [ ]  Member ID: [ ]  Claim or reference #: [ ]
+Drug requested: [name, form, strength]  Date of denial notice: [ ]</p>
+<p>I&#39;m requesting an internal appeal of the decision dated [date] denying coverage of [drug] for [indication].</p>
+<p>The notice states the reason as: &quot;[copy exact wording].&quot;</p>
+<p>I believe this request meets the plan&#39;s criteria because: [one or two plain sentences, e.g. &quot;my BMI at the start of treatment was [ ] on [date], and I have [qualifying condition], documented in the enclosed records&quot;].</p>
+<p>Enclosed: (1) denial notice; (2) letter from [prescriber name]; (3) [records]; (4) [other].</p>
+<p>Please contact me at [phone] and send your decision to [address/portal]. If this is urgent, I request an expedited review because [reason, as stated by my prescriber].</p>
+<p>[Signature, date]</p>
+</blockquote>
+<p>Your prescriber&#39;s letter does the clinical arguing. Your letter just points at the facts.</p>
+5:["$","div",null,{"className":"art-body container-wide","children":[["$","nav",null,{"className":"toc","aria-label":"On this page","children":[["$","p",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","step-1-what-does-the-glp-1-denial-reason-actually-mean",{"children":["$","a",null,{"href":"#step-1-what-does-the-glp-1-denial-reason-actually-mean","children":"Step 1: What does the GLP-1 denial reason actually mean?"}]}],["$","li","step-2-which-appeal-track-are-you-on-and-what-39-s-the-deadline",{"children":["$","a",null,{"href":"#step-2-which-appeal-track-are-you-on-and-what-39-s-the-deadline","children":"Step 2: Which appeal track are you on, and what&#39;s the deadline?"}]}],["$","li","step-3-build-the-appeal-packet",{"children":["$","a",null,{"href":"#step-3-build-the-appeal-packet","children":"Step 3: Build the appeal packet"}]}],["$","li","cover-letter-template-fill-in-the-brackets",{"children":["$","a",null,{"href":"#cover-letter-template-fill-in-the-brackets","children":"Cover-letter template (fill in the brackets)"}]}],["$","li","step-4-ask-about-a-peer-to-peer-review",{"children":["$","a",null,{"href":"#step-4-ask-about-a-peer-to-peer-review","children":"Step 4: Ask about a peer-to-peer review"}]}],["$","li","step-5-track-it-until-there-39-s-a-decision",{"children":["$","a",null,{"href":"#step-5-track-it-until-there-39-s-a-decision","children":"Step 5: Track it until there&#39;s a decision"}]}],["$","li","while-you-wait",{"children":["$","a",null,{"href":"#while-you-wait","children":"While you wait"}]}],["$","li","common-questions",{"children":["$","a",null,{"href":"#common-questions","children":"Common questions"}]}]]}]]}],["$","div",null,{"className":"art-main","children":[[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19","$L1a"],"$L1b","$L1c","$L1d"]}],"$L1e"]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3-b83rfoml2bs.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3scnevsf2n-wh.js","async":true}]
+8:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+b:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"GLP-1 Insurance Denial Appeal: Step by Step | GLPily"}],["$","meta","1",{"name":"description","content":"GLP-1 denied by insurance? Decode the reason, find your appeal deadline (180 days, 65 days or none), build the packet and use our cover-letter template."}],["$","meta","2",{"name":"author","content":"GLPily Editorial Team"}],["$","meta","3",{"name":"keywords","content":"GLP-1 insurance denial appeal,Wegovy denied by insurance appeal,Zepbound prior authorization denied,how to appeal GLP-1 denial,external review GLP-1"}],["$","link","4",{"rel":"canonical","href":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize/"}],["$","meta","5",{"property":"og:title","content":"GLP-1 Denied by Insurance? How to Organize Your Appeal"}],["$","meta","6",{"property":"og:description","content":"GLP-1 denied by insurance? Decode the reason, find your appeal deadline (180 days, 65 days or none), build the packet and use our cover-letter template."}],["$","meta","7",{"property":"og:url","content":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize/"}],["$","meta","8",{"property":"og:image","content":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize.webp"}],["$","meta","9",{"property":"og:image:width","content":"960"}],["$","meta","10",{"property":"og:image:height","content":"640"}],["$","meta","11",{"property":"og:image:alt","content":"A woman at a kitchen counter calmly sorting papers into three neat piles with sticky notes, a laptop open beside her."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-10-27"}],["$","meta","14",{"property":"article:modified_time","content":"2026-10-27"}],["$","meta","15",{"property":"article:section","content":"Guides"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"GLP-1 Denied by Insurance? How to Organize Your Appeal"}],["$","meta","18",{"name":"twitter:description","content":"GLP-1 denied by insurance? Decode the reason, find your appeal deadline (180 days, 65 days or none), build the packet and use our cover-letter template."}],["$","meta","19",{"name":"twitter:image","content":"https://glpily.com/blog/glp-1-coverage-denial-appeal-organize.webp"}],["$","link","20",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/icon-512.png","sizes":"512x512"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icon-180.png"}],["$","$L24","23",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+12:["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/40y-qcn60dbb_.js","async":true}]],[["$","$L27",null,{}],["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L28",null,{"year":2026}],["$","$L29",null,{}]]]}]
+14:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"en","className":"inter_ba811ce-module__p8rHea__variable caveat_ba01c793-module__6ynXca__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]
+:HL["/google-play-badge.png","image"]
+19:["$","aside",null,{"className":"pily-mid","aria-label":"From GLPily","children":[["$","img",null,{"src":"/pily/think.png","alt":"","width":195,"height":190,"loading":"lazy"}],["$","div",null,{"children":[["$","p",null,{"className":"pily-mid-title","children":"Pily’s tip"}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}],["$","p",null,{"className":"pily-mid-links","children":[["$","a",null,{"href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-coverage-denial-appeal-organize-mid","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-coverage-denial-appeal-organize-mid","children":"Get GLPily on Google Play"}],["$","span",null,{"aria-hidden":"true","children":" · "}],["$","a",null,{"href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-coverage-denial-appeal-organize-mid","children":"Download on the App Store"}]]}]]}]]}]
+2a:Tae9,<h2 id="step-4-ask-about-a-peer-to-peer-review">Step 4: Ask about a peer-to-peer review</h2>
+<p>Many plans let your prescriber talk directly with the plan&#39;s reviewing clinician. It can resolve &quot;criteria not met&quot; faster than paper. Ask the prescriber&#39;s office whether they&#39;ve requested one and whether there&#39;s a time limit.</p>
+<h2 id="step-5-track-it-until-there-39-s-a-decision">Step 5: Track it until there&#39;s a decision</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Action</th>
+<th>Contact / reference #</th>
+<th>Response due</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td>Appeal submitted</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Plan confirmed receipt</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Decision</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>External review requested (if needed)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>Free help exists: your <strong>state&#39;s Consumer Assistance Program</strong> can help with job-based and Marketplace appeals (HealthCare.gov notes it can even file for you), and <strong>SHIP</strong> counselors help with Medicare.</p>
+<h2 id="while-you-wait">While you wait</h2>
+<p>Don&#39;t stretch or ration doses on your own. Tell your prescriber about any likely gap in supply so they can plan with you. Cost and access are among the main reasons people stop, and we cover that in <a href="/blog/why-people-stop-glp-1-medicines/">why people stop GLP-1 medicines</a>. If you&#39;re tracking side effects or weight in GLPily, keep logging. A steady record is useful whatever the decision.</p>
+<h2 id="common-questions">Common questions</h2>
+<h3 id="how-long-do-i-have-to-appeal-a-glp-1-denial">How long do I have to appeal a GLP-1 denial?</h3>
+<p>For most job-based and Marketplace plans, 180 days from the denial notice for an internal appeal, then 4 months after the final denial for external review. Medicare Part D redeterminations are due within 65 days. Always check your notice.</p>
+<h3 id="can-i-appeal-a-medicare-glp-1-bridge-denial">Can I appeal a Medicare GLP-1 Bridge denial?</h3>
+<p>CMS says the Bridge has no appeals process. Your prescriber can resubmit the prior authorization with corrected or additional information.</p>
+<h3 id="will-an-appeal-work-if-my-plan-excludes-weight-loss-drugs">Will an appeal work if my plan excludes weight-loss drugs?</h3>
+<p>Exclusions are hard to overturn because the plan simply doesn&#39;t offer the benefit. Ask whether an exception process exists, and compare plans at your next open enrollment.</p>
+<h3 id="can-my-doctor-appeal-for-me">Can my doctor appeal for me?</h3>
+<p>Yes. A provider or another person can file on your behalf, though the plan may require a signed form from you.</p>
+1a:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+1b:["$","section",null,{"className":"sources-box","aria-labelledby":"sources","children":[["$","h2",null,{"id":"sources","children":"Sources and further reading"}],["$","ol",null,{"children":[["$","li","https://www.healthcare.gov/appeal-insurance-company-decision/internal-appeals/",{"children":["$","a",null,{"href":"https://www.healthcare.gov/appeal-insurance-company-decision/internal-appeals/","target":"_blank","rel":"noopener","children":"HealthCare.gov: Internal appeals"}]}],["$","li","https://www.healthcare.gov/appeal-insurance-company-decision/external-review/",{"children":["$","a",null,{"href":"https://www.healthcare.gov/appeal-insurance-company-decision/external-review/","target":"_blank","rel":"noopener","children":"HealthCare.gov: External review"}]}],["$","li","https://www.cms.gov/cciio/programs-and-initiatives/consumer-support-and-information/csg-ext-appeals-facts",{"children":["$","a",null,{"href":"https://www.cms.gov/cciio/programs-and-initiatives/consumer-support-and-information/csg-ext-appeals-facts","target":"_blank","rel":"noopener","children":"CMS: HHS-administered federal external review process"}]}],["$","li","https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals/drug-plans",{"children":["$","a",null,{"href":"https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals/drug-plans","target":"_blank","rel":"noopener","children":"Medicare.gov: Appeals in a Medicare drug plan"}]}],["$","li","https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers",{"children":["$","a",null,{"href":"https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers","target":"_blank","rel":"noopener","children":"CMS: Medicare GLP-1 Bridge, Information for Providers"}]}]]}]]}]
+1c:["$","p",null,{"className":"post-disclaimer","children":["GLPily is a tracking companion, not a medical device, and doesn’t provide medical advice."," Written by the GLPily Editorial Team from the sources listed above."]}]
+1d:["$","section",null,{"className":"blog-cta","aria-labelledby":"cta-blog-glp-1-coverage-denial-appeal-organize","children":[["$","div",null,{"className":"blog-cta-copy","children":[["$","h2",null,{"id":"cta-blog-glp-1-coverage-denial-appeal-organize","children":"Make your GLP-1 journey easier to track 💚"}],["$","p",null,{"children":"Keep your shots, weight, food, water and symptom notes together with GLPily, and meet Pily, the little coach who answers from your own logs."}],["$","div",null,{"className":"blog-cta-links","children":[["$","a",null,{"className":"store-badge","href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-coverage-denial-appeal-organize","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-coverage-denial-appeal-organize","children":["$","img",null,{"src":"/google-play-badge.png","alt":"Get GLPily on Google Play","width":564,"height":168}]}],["$","a",null,{"className":"store-text-btn","href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-coverage-denial-appeal-organize","children":[["$","svg",null,{"width":"16","height":"20","viewBox":"0 0 18 22","aria-hidden":"true","children":[["$","rect",null,{"x":"1.5","y":"1","width":"15","height":"20","rx":"3.5","fill":"none","stroke":"currentColor","strokeWidth":"1.8"}],["$","rect",null,{"x":"6.5","y":"17","width":"5","height":"1.6","rx":"0.8","fill":"currentColor"}]]}],["$","span",null,{"children":[["$","small",null,{"children":"Download GLPily on the"}],"App Store"]}]]}]]}]]}],["$","img",null,{"className":"blog-cta-pily","src":"/pily/wave.png","alt":"Pily, the GLPily axolotl mascot, waving","width":202,"height":155,"loading":"lazy"}],["$","ul",null,{"className":"blog-cta-feats","aria-label":"What GLPily tracks","children":[["$","li","Shot tracking",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M18 2l4 4M20 4l-9 9M14 6l4 4M12.5 7.5L4.5 15.5 3 21l5.5-1.5 8-8M6 15l3 3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Shot tracking"]}],["$","li","Water & symptoms",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.5S5.5 10 5.5 14.5a6.5 6.5 0 0 0 13 0C18.5 10 12 2.5 12 2.5z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Water & symptoms"]}],["$","li","Weight trends",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M4 20V14M9 20V9M14 20v-7M19 20V5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Weight trends"]}],["$","li","Journal",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M6 2h9l4 4v16H6zM9.5 11h6M9.5 15h6M9.5 7h3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Journal"]}],["$","li","Food scanner",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 11h18a9 9 0 0 1-18 0zM9 7c0-2 1-3 1-5M14 7c0-2 1-3 1-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Food scanner"]}],["$","li","Progress photos",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 7h4l2-3h6l2 3h4v13H3zM12 17a4 4 0 1 0 0-8 4 4 0 0 0 0 8z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Progress photos"]}]]}],["$","span",null,{"className":"cta-heart","aria-hidden":"true","children":["$","svg",null,{"width":46,"height":46,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]
+1e:["$","aside",null,{"className":"art-side","children":[["$","section",null,{"className":"side-card","children":[["$","h2",null,{"children":"Related posts"}],[["$","$L4","glp-1-prior-authorization-paperwork-checklist",{"href":"/blog/glp-1-prior-authorization-paperwork-checklist/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glp-1-prior-authorization-paperwork-checklist.webp","srcSet":"/blog/glp-1-prior-authorization-paperwork-checklist-320.webp 480w, /blog/glp-1-prior-authorization-paperwork-checklist.webp 960w","sizes":"80px","alt":"A neat accordion file folder with colored tabs on a desk next to a small succulent and a phone.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 Prior Authorization Checklist: Paperwork to Gather First"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L4","read-health-plan-formulary-glp-1",{"href":"/blog/read-health-plan-formulary-glp-1/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/read-health-plan-formulary-glp-1.webp","srcSet":"/blog/read-health-plan-formulary-glp-1-320.webp 480w, /blog/read-health-plan-formulary-glp-1.webp 960w","sizes":"80px","alt":"Colorful sticky tabs and a highlighter on a thick stack of printed pages on a light blue desk","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"How to Read a Formulary for GLP-1s: Tiers, PA, ST and QL Decoded"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",8," min read"]}]]}]]}],["$","$L4","medicare-bridge-vs-part-d-glp-1",{"href":"/blog/medicare-bridge-vs-part-d-glp-1/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/medicare-bridge-vs-part-d-glp-1.webp","srcSet":"/blog/medicare-bridge-vs-part-d-glp-1-320.webp 480w, /blog/medicare-bridge-vs-part-d-glp-1.webp 960w","sizes":"80px","alt":"A soft illustration of a forked country road splitting into two paths under a pastel sky","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"Medicare GLP-1 Bridge vs Part D: Which One Covers Your Prescription?"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}]]]}],["$","section",null,{"className":"side-card tips","children":[["$","h2",null,{"children":[["$","svg",null,{"width":22,"height":22,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Quick tips"]}],["$","ul",null,{"children":[["$","li","Circle the denial reason and the deadline on the letter before doing anything else.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Circle the denial reason and the deadline on the letter before doing anything else."]}],["$","li","Job-based and Marketplace plans: internal appeal within 180 days. Medicare Part D: 65 days. The Medicare GLP-1 Bridge has no appeals process.",{"children":["$L2b","Job-based and Marketplace plans: internal appeal within 180 days. Medicare Part D: 65 days. The Medicare GLP-1 Bridge has no appeals process."]}],"$L2c"]}]]}],"$L2d"]}]
+21:null
+17:true
+a:300
+2b:["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]
+2c:["$","li","Your packet should answer the specific reason, not argue with the whole policy.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Your packet should answer the specific reason, not argue with the whole policy."]}]
+2d:["$","section",null,{"className":"side-card glp-tip","children":[["$","h2",null,{"children":[["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"currentColor","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," GLPily tip"]}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}]]}]
+a:C
+16:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+13:"$undefined"
+15:"$undefined"
+9:"$undefined"

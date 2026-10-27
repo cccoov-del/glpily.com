@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+2:I[90031,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],"ViewPing"]
+4:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],""]
+:HL["/blog/glp-1-app-subscription-free-trial-pricing.webp","image",{"imageSrcSet":"/blog/glp-1-app-subscription-free-trial-pricing-320.webp 480w, /blog/glp-1-app-subscription-free-trial-pricing.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+3:T5b6,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"GLP-1 App Pricing: Free Trial or Subscription? Do the Math First","description":"Compare GLP-1 app pricing the honest way: annualize weekly and monthly plans, read the trial terms, and know exactly where to cancel on iPhone or Android.","url":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing/","mainEntityOfPage":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing/","image":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing.webp","datePublished":"2026-10-27","dateModified":"2026-10-27","author":{"@type":"Organization","name":"GLPily Editorial Team","url":"https://glpily.com"},"publisher":{"@type":"Organization","name":"GLPily","logo":{"@type":"ImageObject","url":"https://glpily.com/icon-512.png"}},"articleSection":"Guides","keywords":"GLP-1 app pricing, GLP-1 tracker app subscription, free trial auto renew cancel, weekly vs annual app subscription, cancel app subscription iPhone Android","inLanguage":"en-US"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://glpily.com/blog/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://glpily.com/blog/category/guides/"},{"@type":"ListItem","position":3,"name":"GLP-1 App Pricing: Free Trial or Subscription? Do the Math First","item":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing/"}]}]}a:X
+f:X
+f:C
+0:{"buildId":"9Q2cl1A9kptHbLYnte8jc","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog","children":[["$","$L2",null,{"slug":"glp-1-app-subscription-free-trial-pricing"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","article",null,{"children":[["$","header",null,{"className":"art-hero container-wide","children":[["$","div",null,{"className":"art-hero-copy","children":[["$","ol",null,{"className":"crumbs","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/category/guides/","children":"Guides"}]}],["$","li",null,{"aria-current":"page","children":"GLP-1 App Pricing: Free Trial or Subscription? Do the Math First"}]]}],["$","div",null,{"className":"art-meta-top","children":[["$","span",null,{"className":"pill-tag mint","children":"Guides"}],null,["$","span",null,{"className":"read","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}],["$","h1",null,{"children":"GLP-1 App Pricing: Free Trial or Subscription? Do the Math First"}],["$","p",null,{"className":"lead","children":"A $5.99 weekly plan and a $59.99 yearly plan can both look small on a paywall. Here is how to compare tracker app prices over a full year, read trial terms, and cancel without drama."}],["$","p",null,{"className":"byline","children":[["$","span",null,{"className":"avatar-dot","aria-hidden":"true","children":"♡"}],["$","span",null,{"children":[["$","b",null,{"children":["By ","GLPily Editorial Team"]}],["$","br",null,{}],["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],null]}]]}]]}],["$","div",null,{"className":"art-hero-img","children":[["$","span",null,{"className":"script","aria-hidden":"true","children":"Multiply by 52 before you tap ♡"}],["$","img",null,{"className":"post-img","src":"/blog/glp-1-app-subscription-free-trial-pricing.webp","srcSet":"/blog/glp-1-app-subscription-free-trial-pricing-320.webp 480w, /blog/glp-1-app-subscription-free-trial-pricing.webp 960w","sizes":"(max-width: 960px) 100vw, 500px","alt":"A ceramic piggy bank beside a small stack of coins and a paper calendar on a sunny kitchen table","width":960,"height":640,"loading":"eager","fetchPriority":"high","decoding":"async"}]]}]]}],"$L5"]}]]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$a","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+1f:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+23:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+24:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+25:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+26:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[46263,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Nav"]
+28:I[69925,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"FooterBody"]
+29:I[75146,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Analytics"]
+:HL["/_next/static/chunks/3-b83rfoml2bs.css","style"]
+:HL["/_next/static/chunks/3c_ik8-42mq3-.css","style"]
+18:T1518,<p>The fastest way to compare GLP-1 app pricing is to turn every plan into a <strong>yearly cost</strong>, then check what the free version already does, how the trial renews, and where you cancel. A small weekly number can end up being the most expensive way to pay.</p>
+<p>App paywalls are designed to make one button feel obvious. This guide gives you a calmer, five-minute way to decide whether you need to pay at all, and if so, which plan.</p>
+<h2 id="how-do-you-compare-weekly-monthly-and-yearly-app-plans">How do you compare weekly, monthly and yearly app plans?</h2>
+<p>Multiply. That is honestly the whole trick.</p>
+<table>
+<thead>
+<tr>
+<th>Billing</th>
+<th>Multiply by</th>
+<th>Example price</th>
+<th>Cost over 12 months</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Weekly</td>
+<td>52</td>
+<td>$5.99</td>
+<td>$311.48</td>
+</tr>
+<tr>
+<td>Monthly</td>
+<td>12</td>
+<td>$12.99</td>
+<td>$155.88</td>
+</tr>
+<tr>
+<td>Yearly</td>
+<td>1</td>
+<td>$59.99</td>
+<td>$59.99</td>
+</tr>
+</tbody></table>
+<p>Those example prices are GLPily&#39;s own PRO prices in the US, and we use them because we can vouch for them. Notice what the math shows: the weekly plan costs more than five times the yearly plan over a full year. Weekly plans make sense if you only want a few weeks of a paid feature, say before an appointment. They make little sense as a way to pay for a whole year.</p>
+<p>The yearly plan has its own catch: you pay up front. If you are not sure you will still be using the app in three months, a monthly plan may cost more per month but less in total.</p>
+<p>A quick decision rule:</p>
+<ul>
+<li><strong>Trying it out for a few weeks?</strong> Weekly or monthly, with a calendar reminder to review.</li>
+<li><strong>Fairly sure you will track for many months?</strong> Yearly is usually cheapest.</li>
+<li><strong>Not sure you need paid features?</strong> Start with the free version and pay nothing.</li>
+</ul>
+<h2 id="what-does-a-free-trial-actually-mean-in-an-app-store">What does a &quot;free trial&quot; actually mean in an app store?</h2>
+<p>On Apple&#39;s App Store, a free trial is one of three kinds of <strong>introductory offer</strong> a developer can set up. Apple&#39;s developer documentation lists:</p>
+<ul>
+<li><strong>Free trial:</strong> free access for a set period.</li>
+<li><strong>Pay as you go:</strong> a discounted price each billing period for a set time.</li>
+<li><strong>Pay up front:</strong> one discounted payment for a set time.</li>
+</ul>
+<p>All three roll into the regular price automatically unless you cancel. Apple also says customers can redeem one introductory offer per subscription group, so you usually cannot restart a trial on the same app.</p>
+<p>Google Play works the same way in practice. Its help page says that when the trial ends, the first billing period begins and you are charged automatically; to avoid that, cancel before the trial expires. Google also says you will get an email when your trial is about to end.</p>
+<p>Apple requires developers to show the <strong>full renewal price</strong> clearly on the sign-up screen and, for free trials, how long the trial lasts and what you will pay after. If you cannot find those three things on a paywall, scroll down or tap the fine print before you tap the big button.</p>
+<h2 id="what-should-you-check-before-starting-a-trial">What should you check before starting a trial?</h2>
+<p>Run through this list on the paywall itself:</p>
+<ul>
+<li><input disabled="" type="checkbox"> What is the price after the trial, and how often is it billed?</li>
+<li><input disabled="" type="checkbox"> When exactly does the trial end? (Put it in your calendar now.)</li>
+<li><input disabled="" type="checkbox"> Is the offer introductory, meaning the second year costs more?</li>
+<li><input disabled="" type="checkbox"> Which features are paid, and which stay free if you cancel?</li>
+<li><input disabled="" type="checkbox"> Can you export your logs if you leave? (More on that in <a href="/blog/export-delete-glp-1-tracking-data/">Can You Export or Delete Your GLP-1 Tracking Data?</a>)</li>
+<li><input disabled="" type="checkbox"> Is the subscription billed through Apple or Google, or on the company&#39;s website?</li>
+</ul>
+<p>That last item matters because it decides where you cancel.</p>
+<h2 id="what-do-you-actually-need-to-pay-for">What do you actually need to pay for?</h2>
+<p>Before paying, write down the three things you open the app for most. For many people on a GLP-1, that list is something like: log the shot, log the weight, get a reminder.</p>
+<p>In GLPily, shot and pill logging with reminders, weight tracking and other core logging are free. PRO adds extras on top. Other apps draw the free/paid line in different places, which is exactly why &quot;which is cheapest&quot; is the wrong first question. The right one is: does the free version already cover my three things?</p>
+<p>If you want to compare features rather than prices, our roundup of the <a href="/blog/best-glp-1-tracker-apps/">best GLP-1 tracker apps</a> and the <a href="/blog/glpily-vs-shotsy-vs-meagain-2026/">fair comparison of GLPily, Shotsy and MeAgain</a> list what each app offers. And if you are still deciding whether you need an app at all, <a href="/blog/paper-spreadsheet-or-app-glp-1-tracking/">Paper, Spreadsheet or App?</a> is a good gut-check. A paper notebook costs a few dollars and never auto-renews.</p>
+5:["$","div",null,{"className":"art-body container-wide","children":[["$","nav",null,{"className":"toc","aria-label":"On this page","children":[["$","p",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","how-do-you-compare-weekly-monthly-and-yearly-app-plans",{"children":["$","a",null,{"href":"#how-do-you-compare-weekly-monthly-and-yearly-app-plans","children":"How do you compare weekly, monthly and yearly app plans?"}]}],["$","li","what-does-a-free-trial-actually-mean-in-an-app-store",{"children":["$","a",null,{"href":"#what-does-a-free-trial-actually-mean-in-an-app-store","children":"What does a &quot;free trial&quot; actually mean in an app store?"}]}],["$","li","what-should-you-check-before-starting-a-trial",{"children":["$","a",null,{"href":"#what-should-you-check-before-starting-a-trial","children":"What should you check before starting a trial?"}]}],["$","li","what-do-you-actually-need-to-pay-for",{"children":["$","a",null,{"href":"#what-do-you-actually-need-to-pay-for","children":"What do you actually need to pay for?"}]}],["$","li","how-do-you-cancel-an-app-subscription-on-iphone-or-android",{"children":["$","a",null,{"href":"#how-do-you-cancel-an-app-subscription-on-iphone-or-android","children":"How do you cancel an app subscription on iPhone or Android?"}]}],["$","li","what-if-you-were-charged-when-you-meant-to-cancel",{"children":["$","a",null,{"href":"#what-if-you-were-charged-when-you-meant-to-cancel","children":"What if you were charged when you meant to cancel?"}]}],["$","li","a-two-minute-pricing-worksheet",{"children":["$","a",null,{"href":"#a-two-minute-pricing-worksheet","children":"A two-minute pricing worksheet"}]}],["$","li","common-questions",{"children":["$","a",null,{"href":"#common-questions","children":"Common questions"}]}]]}]]}],["$","div",null,{"className":"art-main","children":[[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19","$L1a"],"$L1b","$L1c","$L1d"]}],"$L1e"]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3-b83rfoml2bs.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3scnevsf2n-wh.js","async":true}]
+8:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+b:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"GLP-1 App Pricing: Trials vs Subscriptions | GLPily"}],["$","meta","1",{"name":"description","content":"Compare GLP-1 app pricing the honest way: annualize weekly and monthly plans, read the trial terms, and know exactly where to cancel on iPhone or Android."}],["$","meta","2",{"name":"author","content":"GLPily Editorial Team"}],["$","meta","3",{"name":"keywords","content":"GLP-1 app pricing,GLP-1 tracker app subscription,free trial auto renew cancel,weekly vs annual app subscription,cancel app subscription iPhone Android"}],["$","link","4",{"rel":"canonical","href":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing/"}],["$","meta","5",{"property":"og:title","content":"GLP-1 App Pricing: Free Trial or Subscription? Do the Math First"}],["$","meta","6",{"property":"og:description","content":"Compare GLP-1 app pricing the honest way: annualize weekly and monthly plans, read the trial terms, and know exactly where to cancel on iPhone or Android."}],["$","meta","7",{"property":"og:url","content":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing/"}],["$","meta","8",{"property":"og:image","content":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing.webp"}],["$","meta","9",{"property":"og:image:width","content":"960"}],["$","meta","10",{"property":"og:image:height","content":"640"}],["$","meta","11",{"property":"og:image:alt","content":"A ceramic piggy bank beside a small stack of coins and a paper calendar on a sunny kitchen table"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-10-27"}],["$","meta","14",{"property":"article:modified_time","content":"2026-10-27"}],["$","meta","15",{"property":"article:section","content":"Guides"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"GLP-1 App Pricing: Free Trial or Subscription? Do the Math First"}],["$","meta","18",{"name":"twitter:description","content":"Compare GLP-1 app pricing the honest way: annualize weekly and monthly plans, read the trial terms, and know exactly where to cancel on iPhone or Android."}],["$","meta","19",{"name":"twitter:image","content":"https://glpily.com/blog/glp-1-app-subscription-free-trial-pricing.webp"}],["$","link","20",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/icon-512.png","sizes":"512x512"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icon-180.png"}],["$","$L24","23",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+12:["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/40y-qcn60dbb_.js","async":true}]],[["$","$L27",null,{}],["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L28",null,{"year":2026}],["$","$L29",null,{}]]]}]
+14:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"en","className":"inter_ba811ce-module__p8rHea__variable caveat_ba01c793-module__6ynXca__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]
+:HL["/google-play-badge.png","image"]
+19:["$","aside",null,{"className":"pily-mid","aria-label":"From GLPily","children":[["$","img",null,{"src":"/pily/think.png","alt":"","width":195,"height":190,"loading":"lazy"}],["$","div",null,{"children":[["$","p",null,{"className":"pily-mid-title","children":"Pily’s tip"}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}],["$","p",null,{"className":"pily-mid-links","children":[["$","a",null,{"href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-app-subscription-free-trial-pricing-mid","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-app-subscription-free-trial-pricing-mid","children":"Get GLPily on Google Play"}],["$","span",null,{"aria-hidden":"true","children":" · "}],["$","a",null,{"href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-app-subscription-free-trial-pricing-mid","children":"Download on the App Store"}]]}]]}]]}]
+2a:T10b8,<h2 id="how-do-you-cancel-an-app-subscription-on-iphone-or-android">How do you cancel an app subscription on iPhone or Android?</h2>
+<p>Deleting the app does <strong>not</strong> cancel the subscription; Google&#39;s help page says so plainly. On iPhone, too, subscriptions are managed in your Apple Account, not inside the app. Cancel in your account:</p>
+<p><strong>iPhone or iPad (Apple&#39;s steps):</strong></p>
+<ol>
+<li>Open <strong>Settings</strong> and tap your name.</li>
+<li>Tap <strong>Subscriptions</strong>.</li>
+<li>Tap the subscription.</li>
+<li>Tap <strong>Cancel Subscription</strong> (you may need to scroll). If there is no cancel button, or you see an expiration message in red, it is already canceled.</li>
+</ol>
+<p>Apple advises canceling a free trial <strong>at least 24 hours before it ends</strong> if you do not want it to renew.</p>
+<p><strong>Android (Google Play&#39;s steps):</strong></p>
+<ol>
+<li>Open the Google Play subscriptions page, signed in to the account that pays.</li>
+<li>Select the subscription.</li>
+<li>Tap <strong>Cancel subscription</strong> and follow the prompts.</li>
+</ol>
+<p>On Google Play, you keep access until the end of the period you already paid for. Google&#39;s own example: buy a one-year plan on January 1, cancel on July 1, and you keep access until December 31 without being charged again.</p>
+<p><strong>Subscribed on a website?</strong> Cancel through that company&#39;s account page and save the confirmation email.</p>
+<h2 id="what-if-you-were-charged-when-you-meant-to-cancel">What if you were charged when you meant to cancel?</h2>
+<p>On Apple, you can ask for a refund at <strong>reportaproblem.apple.com</strong>: sign in, choose &quot;Request a refund,&quot; pick a reason, then select the item. Apple says it typically responds within 24 to 48 hours. Refunds are not guaranteed, so a calendar reminder before the renewal date is still the better plan. On Google Play, the help center says contacting the app&#39;s developer is often the quickest fix for purchase problems, and it has a separate &quot;Request a refund on Google Play&quot; process for the rest.</p>
+<h2 id="a-two-minute-pricing-worksheet">A two-minute pricing worksheet</h2>
+<p>Copy this into your notes before you decide:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>App A</th>
+<th>App B</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Free features I would actually use</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Paid feature I want</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Price and billing (week / month / year)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cost over 12 months</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Trial length and end date</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Billed through (Apple / Google / website)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Data export available?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Date I checked these prices</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>That last row matters. Prices change, so a comparison is only true on the day you made it.</p>
+<h2 id="common-questions">Common questions</h2>
+<h3 id="is-a-weekly-app-subscription-a-bad-deal">Is a weekly app subscription a bad deal?</h3>
+<p>Not always. It is the most expensive way to pay for a whole year, but it can be the cheapest way to try a paid feature for two or three weeks. Annualize it and decide based on how long you will really use it.</p>
+<h3 id="does-deleting-a-glp-1-app-cancel-my-subscription">Does deleting a GLP-1 app cancel my subscription?</h3>
+<p>No, not on Google Play, and on iPhone the subscription lives in your Apple Account regardless. Cancel in Settings &gt; your name &gt; Subscriptions on iPhone, or in Google Play subscriptions on Android. If you subscribed on a website, cancel there.</p>
+<h3 id="when-should-i-cancel-a-free-trial-so-i-am-not-charged">When should I cancel a free trial so I am not charged?</h3>
+<p>Apple recommends at least 24 hours before the trial ends. Google says to cancel before the trial period expires. Set a reminder a couple of days early to be safe.</p>
+<h3 id="will-i-lose-my-logs-if-i-cancel">Will I lose my logs if I cancel?</h3>
+<p>It depends on the app. Many keep free features working after a paid plan ends, but check before you subscribe, and export your data if the app offers it.</p>
+1a:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+1b:["$","section",null,{"className":"sources-box","aria-labelledby":"sources","children":[["$","h2",null,{"id":"sources","children":"Sources and further reading"}],["$","ol",null,{"children":[["$","li","https://developer.apple.com/app-store/subscriptions/",{"children":["$","a",null,{"href":"https://developer.apple.com/app-store/subscriptions/","target":"_blank","rel":"noopener","children":"Apple Developer: Auto-renewable subscriptions and introductory offers"}]}],["$","li","https://support.apple.com/en-us/118428",{"children":["$","a",null,{"href":"https://support.apple.com/en-us/118428","target":"_blank","rel":"noopener","children":"Apple Support: If you want to cancel a subscription from Apple"}]}],["$","li","https://support.apple.com/en-us/118223",{"children":["$","a",null,{"href":"https://support.apple.com/en-us/118223","target":"_blank","rel":"noopener","children":"Apple Support: Request a refund for apps or content from Apple"}]}],["$","li","https://support.google.com/googleplay/answer/7018481",{"children":["$","a",null,{"href":"https://support.google.com/googleplay/answer/7018481","target":"_blank","rel":"noopener","children":"Google Play Help: Cancel, pause, or change a subscription on Google Play"}]}],["$","li","https://support.google.com/googleplay/answer/2476088",{"children":["$","a",null,{"href":"https://support.google.com/googleplay/answer/2476088","target":"_blank","rel":"noopener","children":"Google Play Help: Subscribe to services or content"}]}],["$","li","https://support.google.com/googleplay/answer/2479637",{"children":["$","a",null,{"href":"https://support.google.com/googleplay/answer/2479637","target":"_blank","rel":"noopener","children":"Google Play Help: Refunds and purchase issues on Google Play"}]}]]}]]}]
+1c:["$","p",null,{"className":"post-disclaimer","children":["GLPily is a tracking companion, not a medical device, and doesn’t provide medical advice."," Written by the GLPily Editorial Team from the sources listed above."]}]
+1d:["$","section",null,{"className":"blog-cta","aria-labelledby":"cta-blog-glp-1-app-subscription-free-trial-pricing","children":[["$","div",null,{"className":"blog-cta-copy","children":[["$","h2",null,{"id":"cta-blog-glp-1-app-subscription-free-trial-pricing","children":"Make your GLP-1 journey easier to track 💚"}],["$","p",null,{"children":"Keep your shots, weight, food, water and symptom notes together with GLPily, and meet Pily, the little coach who answers from your own logs."}],["$","div",null,{"className":"blog-cta-links","children":[["$","a",null,{"className":"store-badge","href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-app-subscription-free-trial-pricing","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-app-subscription-free-trial-pricing","children":["$","img",null,{"src":"/google-play-badge.png","alt":"Get GLPily on Google Play","width":564,"height":168}]}],["$","a",null,{"className":"store-text-btn","href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-app-subscription-free-trial-pricing","children":[["$","svg",null,{"width":"16","height":"20","viewBox":"0 0 18 22","aria-hidden":"true","children":[["$","rect",null,{"x":"1.5","y":"1","width":"15","height":"20","rx":"3.5","fill":"none","stroke":"currentColor","strokeWidth":"1.8"}],["$","rect",null,{"x":"6.5","y":"17","width":"5","height":"1.6","rx":"0.8","fill":"currentColor"}]]}],["$","span",null,{"children":[["$","small",null,{"children":"Download GLPily on the"}],"App Store"]}]]}]]}]]}],["$","img",null,{"className":"blog-cta-pily","src":"/pily/wave.png","alt":"Pily, the GLPily axolotl mascot, waving","width":202,"height":155,"loading":"lazy"}],["$","ul",null,{"className":"blog-cta-feats","aria-label":"What GLPily tracks","children":[["$","li","Shot tracking",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M18 2l4 4M20 4l-9 9M14 6l4 4M12.5 7.5L4.5 15.5 3 21l5.5-1.5 8-8M6 15l3 3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Shot tracking"]}],["$","li","Water & symptoms",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.5S5.5 10 5.5 14.5a6.5 6.5 0 0 0 13 0C18.5 10 12 2.5 12 2.5z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Water & symptoms"]}],["$","li","Weight trends",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M4 20V14M9 20V9M14 20v-7M19 20V5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Weight trends"]}],["$","li","Journal",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M6 2h9l4 4v16H6zM9.5 11h6M9.5 15h6M9.5 7h3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Journal"]}],["$","li","Food scanner",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 11h18a9 9 0 0 1-18 0zM9 7c0-2 1-3 1-5M14 7c0-2 1-3 1-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Food scanner"]}],["$","li","Progress photos",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 7h4l2-3h6l2 3h4v13H3zM12 17a4 4 0 1 0 0-8 4 4 0 0 0 0 8z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Progress photos"]}]]}],["$","span",null,{"className":"cta-heart","aria-hidden":"true","children":["$","svg",null,{"width":46,"height":46,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]
+1e:["$","aside",null,{"className":"art-side","children":[["$","section",null,{"className":"side-card","children":[["$","h2",null,{"children":"Related posts"}],[["$","$L4","best-glp-1-tracker-apps",{"href":"/blog/best-glp-1-tracker-apps/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/best-glp-1-tracker-apps.webp","srcSet":"/blog/best-glp-1-tracker-apps-320.webp 480w, /blog/best-glp-1-tracker-apps.webp 960w","sizes":"80px","alt":"Hands holding a phone showing a colorful health tracking screen, next to a glass of lemon water, a bowl of berries and a plant.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"Best GLP-1 Tracker Apps in 2026: 7 Apps and Their Best Features"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",6," min read"]}]]}]]}],["$","$L4","glpily-vs-shotsy-vs-meagain-2026",{"href":"/blog/glpily-vs-shotsy-vs-meagain-2026/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glpily-vs-shotsy-vs-meagain-2026.webp","srcSet":"/blog/glpily-vs-shotsy-vs-meagain-2026-320.webp 480w, /blog/glpily-vs-shotsy-vs-meagain-2026.webp 960w","sizes":"80px","alt":"Three small potted seedlings in matching pots lined up on a sunny windowsill with a paper tag beside each.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLPily vs Shotsy vs MeAgain: A Fair 7-Day Test-Drive Scorecard"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L4","export-delete-glp-1-tracking-data",{"href":"/blog/export-delete-glp-1-tracking-data/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/export-delete-glp-1-tracking-data.webp","srcSet":"/blog/export-delete-glp-1-tracking-data-320.webp 480w, /blog/export-delete-glp-1-tracking-data.webp 960w","sizes":"80px","alt":"Moving boxes, one open with a neatly folded sweater and a notebook inside, in a sunlit empty room.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"How to Export or Delete Your GLP-1 Tracking Data (Checklist)"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}]]]}],["$","section",null,{"className":"side-card tips","children":[["$","h2",null,{"children":[["$","svg",null,{"width":22,"height":22,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Quick tips"]}],["$","ul",null,{"children":[["$","li","Turn every price into a yearly number before comparing.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Turn every price into a yearly number before comparing."]}],["$","li","Write the trial end date in your calendar the day you start it.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":"$L2b"}],"Write the trial end date in your calendar the day you start it."]}],"$L2c"]}]]}],"$L2d"]}]
+21:null
+17:true
+a:300
+2b:["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]
+2c:["$","li","Deleting the app is not the same as canceling; cancel in your Apple or Google Play account.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Deleting the app is not the same as canceling; cancel in your Apple or Google Play account."]}]
+2d:["$","section",null,{"className":"side-card glp-tip","children":[["$","h2",null,{"children":[["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"currentColor","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," GLPily tip"]}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}]]}]
+a:C
+16:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+13:"$undefined"
+15:"$undefined"
+9:"$undefined"

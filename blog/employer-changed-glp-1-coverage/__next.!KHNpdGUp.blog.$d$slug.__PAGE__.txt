@@ -1,0 +1,203 @@
+1:"$Sreact.fragment"
+2:I[90031,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],"ViewPing"]
+4:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],""]
+:HL["/blog/employer-changed-glp-1-coverage.webp","image",{"imageSrcSet":"/blog/employer-changed-glp-1-coverage-320.webp 480w, /blog/employer-changed-glp-1-coverage.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+3:T5ad,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"Employer Dropped GLP-1 Coverage? Your First 7 Days, Step by Step","description":"Employer changed or dropped GLP-1 coverage? A day-by-day plan for week one: read the notice, count your supply, price options and talk to your prescriber.","url":"https://glpily.com/blog/employer-changed-glp-1-coverage/","mainEntityOfPage":"https://glpily.com/blog/employer-changed-glp-1-coverage/","image":"https://glpily.com/blog/employer-changed-glp-1-coverage.webp","datePublished":"2026-10-27","dateModified":"2026-10-27","author":{"@type":"Organization","name":"GLPily Editorial Team","url":"https://glpily.com"},"publisher":{"@type":"Organization","name":"GLPily","logo":{"@type":"ImageObject","url":"https://glpily.com/icon-512.png"}},"articleSection":"Guides","keywords":"employer dropped GLP-1 coverage, insurance stopped covering Wegovy, Zepbound no longer covered by insurance, what to do when GLP-1 coverage ends, employer GLP-1 coverage change mid-year","inLanguage":"en-US"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://glpily.com/blog/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://glpily.com/blog/category/guides/"},{"@type":"ListItem","position":3,"name":"Employer Dropped GLP-1 Coverage? Your First 7 Days, Step by Step","item":"https://glpily.com/blog/employer-changed-glp-1-coverage/"}]}]}a:X
+f:X
+f:C
+0:{"buildId":"9Q2cl1A9kptHbLYnte8jc","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog","children":[["$","$L2",null,{"slug":"employer-changed-glp-1-coverage"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","article",null,{"children":[["$","header",null,{"className":"art-hero container-wide","children":[["$","div",null,{"className":"art-hero-copy","children":[["$","ol",null,{"className":"crumbs","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/category/guides/","children":"Guides"}]}],["$","li",null,{"aria-current":"page","children":"Employer Dropped GLP-1 Coverage? Your First 7 Days, Step by Step"}]]}],["$","div",null,{"className":"art-meta-top","children":[["$","span",null,{"className":"pill-tag mint","children":"Guides"}],null,["$","span",null,{"className":"read","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}],["$","h1",null,{"children":"Employer Dropped GLP-1 Coverage? Your First 7 Days, Step by Step"}],["$","p",null,{"className":"lead","children":"The email says your plan is changing GLP-1 coverage. Don't panic-refill or quit cold. Here's a calm, day-by-day plan for the first week: what to read, who to call and which numbers to run."}],["$","p",null,{"className":"byline","children":[["$","span",null,{"className":"avatar-dot","aria-hidden":"true","children":"♡"}],["$","span",null,{"children":[["$","b",null,{"children":["By ","GLPily Editorial Team"]}],["$","br",null,{}],["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],null]}]]}]]}],["$","div",null,{"className":"art-hero-img","children":[["$","span",null,{"className":"script","aria-hidden":"true","children":"One step a day is enough ♡"}],["$","img",null,{"className":"post-img","src":"/blog/employer-changed-glp-1-coverage.webp","srcSet":"/blog/employer-changed-glp-1-coverage-320.webp 480w, /blog/employer-changed-glp-1-coverage.webp 960w","sizes":"(max-width: 960px) 100vw, 500px","alt":"A wall calendar with a week of blank squares, a few marked with colored dots, beside a window with morning light.","width":960,"height":640,"loading":"eager","fetchPriority":"high","decoding":"async"}]]}]]}],"$L5"]}]]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$a","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+1f:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+23:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+24:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+25:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+26:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[46263,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Nav"]
+28:I[69925,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"FooterBody"]
+29:I[75146,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Analytics"]
+:HL["/_next/static/chunks/3-b83rfoml2bs.css","style"]
+:HL["/_next/static/chunks/3c_ik8-42mq3-.css","style"]
+18:T1367,<p>If your employer just changed or dropped GLP-1 coverage, spend the first week getting four things straight: <strong>the effective date, exactly what changed, how much medicine you have before then, and what your prescriber recommends next.</strong> Don&#39;t stretch doses, stop suddenly or stockpile on your own. Use the time between the notice and the effective date to line up a plan. Here it is, one day at a time.</p>
+<p>It happens more than you&#39;d think. In KFF&#39;s 2026 survey of employers with 200+ workers, 12% of those not covering GLP-1s for weight loss said they&#39;d <strong>stopped</strong> covering them in the last 12 months. You&#39;re not the only one reading this email twice.</p>
+<h2 id="day-1-what-exactly-changed-in-my-glp-1-coverage">Day 1: What exactly changed in my GLP-1 coverage?</h2>
+<p>Read the notice slowly, with a highlighter. You&#39;re looking for:</p>
+<ul>
+<li><input disabled="" type="checkbox"> <strong>Effective date.</strong> Everything else hangs on this.</li>
+<li><input disabled="" type="checkbox"> <strong>Which drugs.</strong> All GLP-1s, one brand, or one form (vials vs pens, for example)?</li>
+<li><input disabled="" type="checkbox"> <strong>Which use.</strong> Weight management only, or diabetes too?</li>
+<li><input disabled="" type="checkbox"> <strong>Who&#39;s affected.</strong> New starts only, or people already on treatment too? Some changes let current users continue for a while; don&#39;t assume yours does.</li>
+<li><input disabled="" type="checkbox"> <strong>New hoops.</strong> Sometimes &quot;change&quot; means new prior authorization criteria or a lifestyle-program requirement rather than an outright drop.</li>
+</ul>
+<p><strong>Your notice rights:</strong> for job-based plans, if a mid-year change affects what your Summary of Benefits and Coverage says, federal rules require notice <strong>at least 60 days before</strong> it takes effect. If you got far less warning, ask HR when the change was adopted and how the plan delivered the notice.</p>
+<h2 id="day-2-get-the-rules-in-writing">Day 2: Get the rules in writing</h2>
+<p>Email HR or benefits (email leaves a trail) and ask for:</p>
+<ul>
+<li><input disabled="" type="checkbox"> The updated <strong>Summary of Benefits and Coverage</strong> or <strong>Summary of Material Modifications</strong></li>
+<li><input disabled="" type="checkbox"> The plan&#39;s <strong>coverage policy</strong> for your drug after the change</li>
+<li><input disabled="" type="checkbox"> Whether any <strong>transition fill, continuity-of-care or exception</strong> process exists</li>
+<li><input disabled="" type="checkbox"> Whether the plan is <strong>self-funded or fully insured</strong> (it affects which rules apply; see <a href="/blog/employer-glp-1-coverage-2026/">why coverage varies by employer</a>)</li>
+</ul>
+<p>Federal law requires plan administrators to provide the plan description and change notices free of charge.</p>
+<h2 id="day-3-count-your-runway">Day 3: Count your runway</h2>
+<p>Grab your medicine and a calendar.</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Your numbers</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Effective date of change</td>
+<td></td>
+</tr>
+<tr>
+<td>Doses or pens on hand now</td>
+<td></td>
+</tr>
+<tr>
+<td>Next refill date under current coverage</td>
+<td></td>
+</tr>
+<tr>
+<td>Weeks of medicine that covers</td>
+<td></td>
+</tr>
+<tr>
+<td>Gap between last covered fill and next option</td>
+<td></td>
+</tr>
+</tbody></table>
+<p>This tells you whether you have a comfortable runway or a tight one. Bring it to your prescriber. A shot or pill log helps here: GLPily shows your last doses and sends refill reminders, so &quot;when&#39;s my next one?&quot; isn&#39;t guesswork.</p>
+<p><strong>Don&#39;t:</strong> stretch doses, skip weeks to &quot;make it last,&quot; or try to fill far ahead in ways your plan doesn&#39;t allow. Gaps and restarts have their own label instructions; see restarting after a break.</p>
+<h2 id="day-4-talk-to-your-prescriber">Day 4: Talk to your prescriber</h2>
+<p>Book the appointment (or portal message) now, before the effective date. Questions to bring:</p>
+<ol>
+<li>Is there any route under the <strong>new</strong> plan rules, such as an exception, different criteria or a covered alternative?</li>
+<li>Is an <strong>appeal</strong> worth trying? (If the plan simply excludes the drug now, probably not. If it&#39;s a criteria issue, maybe. Our <a href="/blog/glp-1-coverage-denial-appeal-organize/">appeal organizer</a> helps.)</li>
+<li>If I move to <strong>self-pay</strong>, which product and form makes sense for me?</li>
+<li>If I need to pause or stop, <strong>what&#39;s the plan</strong> for doing that safely, and what should I watch for?</li>
+</ol>
+<p>That last question matters. Research shows weight often returns after stopping semaglutide (see <a href="/blog/what-happens-when-you-stop-semaglutide/">what happens when you stop</a>), so any pause deserves a plan, not an accident.</p>
+5:["$","div",null,{"className":"art-body container-wide","children":[["$","nav",null,{"className":"toc","aria-label":"On this page","children":[["$","p",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","day-1-what-exactly-changed-in-my-glp-1-coverage",{"children":["$","a",null,{"href":"#day-1-what-exactly-changed-in-my-glp-1-coverage","children":"Day 1: What exactly changed in my GLP-1 coverage?"}]}],["$","li","day-2-get-the-rules-in-writing",{"children":["$","a",null,{"href":"#day-2-get-the-rules-in-writing","children":"Day 2: Get the rules in writing"}]}],["$","li","day-3-count-your-runway",{"children":["$","a",null,{"href":"#day-3-count-your-runway","children":"Day 3: Count your runway"}]}],["$","li","day-4-talk-to-your-prescriber",{"children":["$","a",null,{"href":"#day-4-talk-to-your-prescriber","children":"Day 4: Talk to your prescriber"}]}],["$","li","day-5-price-the-self-pay-options-honestly",{"children":["$","a",null,{"href":"#day-5-price-the-self-pay-options-honestly","children":"Day 5: Price the self-pay options honestly"}]}],["$","li","day-6-check-your-money-tools",{"children":["$","a",null,{"href":"#day-6-check-your-money-tools","children":"Day 6: Check your money tools"}]}],["$","li","day-7-plan-for-the-next-decision-point",{"children":["$","a",null,{"href":"#day-7-plan-for-the-next-decision-point","children":"Day 7: Plan for the next decision point"}]}],["$","li","the-one-page-summary",{"children":["$","a",null,{"href":"#the-one-page-summary","children":"The one-page summary"}]}],["$","li","common-questions",{"children":["$","a",null,{"href":"#common-questions","children":"Common questions"}]}]]}]]}],["$","div",null,{"className":"art-main","children":[[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19","$L1a"],"$L1b","$L1c","$L1d"]}],"$L1e"]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3-b83rfoml2bs.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3scnevsf2n-wh.js","async":true}]
+8:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+b:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Employer Dropped GLP-1 Coverage? A 7-Day Plan | GLPily"}],["$","meta","1",{"name":"description","content":"Employer changed or dropped GLP-1 coverage? A day-by-day plan for week one: read the notice, count your supply, price options and talk to your prescriber."}],["$","meta","2",{"name":"author","content":"GLPily Editorial Team"}],["$","meta","3",{"name":"keywords","content":"employer dropped GLP-1 coverage,insurance stopped covering Wegovy,Zepbound no longer covered by insurance,what to do when GLP-1 coverage ends,employer GLP-1 coverage change mid-year"}],["$","link","4",{"rel":"canonical","href":"https://glpily.com/blog/employer-changed-glp-1-coverage/"}],["$","meta","5",{"property":"og:title","content":"Employer Dropped GLP-1 Coverage? Your First 7 Days, Step by Step"}],["$","meta","6",{"property":"og:description","content":"Employer changed or dropped GLP-1 coverage? A day-by-day plan for week one: read the notice, count your supply, price options and talk to your prescriber."}],["$","meta","7",{"property":"og:url","content":"https://glpily.com/blog/employer-changed-glp-1-coverage/"}],["$","meta","8",{"property":"og:image","content":"https://glpily.com/blog/employer-changed-glp-1-coverage.webp"}],["$","meta","9",{"property":"og:image:width","content":"960"}],["$","meta","10",{"property":"og:image:height","content":"640"}],["$","meta","11",{"property":"og:image:alt","content":"A wall calendar with a week of blank squares, a few marked with colored dots, beside a window with morning light."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-10-27"}],["$","meta","14",{"property":"article:modified_time","content":"2026-10-27"}],["$","meta","15",{"property":"article:section","content":"Guides"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Employer Dropped GLP-1 Coverage? Your First 7 Days, Step by Step"}],["$","meta","18",{"name":"twitter:description","content":"Employer changed or dropped GLP-1 coverage? A day-by-day plan for week one: read the notice, count your supply, price options and talk to your prescriber."}],["$","meta","19",{"name":"twitter:image","content":"https://glpily.com/blog/employer-changed-glp-1-coverage.webp"}],["$","link","20",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/icon-512.png","sizes":"512x512"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icon-180.png"}],["$","$L24","23",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+12:["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/40y-qcn60dbb_.js","async":true}]],[["$","$L27",null,{}],["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L28",null,{"year":2026}],["$","$L29",null,{}]]]}]
+14:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"en","className":"inter_ba811ce-module__p8rHea__variable caveat_ba01c793-module__6ynXca__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]
+:HL["/google-play-badge.png","image"]
+19:["$","aside",null,{"className":"pily-mid","aria-label":"From GLPily","children":[["$","img",null,{"src":"/pily/think.png","alt":"","width":195,"height":190,"loading":"lazy"}],["$","div",null,{"children":[["$","p",null,{"className":"pily-mid-title","children":"Pily’s tip"}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}],["$","p",null,{"className":"pily-mid-links","children":[["$","a",null,{"href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-employer-changed-glp-1-coverage-mid","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-employer-changed-glp-1-coverage-mid","children":"Get GLPily on Google Play"}],["$","span",null,{"aria-hidden":"true","children":" · "}],["$","a",null,{"href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-employer-changed-glp-1-coverage-mid","children":"Download on the App Store"}]]}]]}]]}]
+2a:T12b2,<h2 id="day-5-price-the-self-pay-options-honestly">Day 5: Price the self-pay options honestly</h2>
+<p>Manufacturer self-pay prices have dropped a lot. Here&#39;s what their own pages listed in October 2026 (prices change, so check):</p>
+<table>
+<thead>
+<tr>
+<th>Medicine</th>
+<th>Listed self-pay price per month</th>
+<th>Fine print worth knowing</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Zepbound KwikPen or vials (Lilly)</td>
+<td>$299 (2.5 mg), $399 (5 mg), $449 for 7.5–15 mg</td>
+<td>The $449 price requires refilling within 45 days; otherwise regular prices up to $699 apply. Taxes and fees may apply</td>
+</tr>
+<tr>
+<td>Wegovy pen (Novo Nordisk)</td>
+<td>$349 (most doses); $399 for Wegovy HD 7.2 mg</td>
+<td>New patients: $199 for the first 2 months of 0.25 mg and 0.5 mg through Dec 31, 2026</td>
+</tr>
+<tr>
+<td>Wegovy pill</td>
+<td>$149 (1.5 mg), $199 (4 mg), $299 (9 mg, 25 mg)</td>
+<td>Prices vary by dose</td>
+</tr>
+<tr>
+<td>Foundayo pill (Lilly)</td>
+<td>$149 to $299 by dose</td>
+<td>2.5 mg and 5.5 mg prices are temporarily reduced through Dec 31, 2026; the top doses cost $299 only if you refill within 45 days, otherwise $349</td>
+</tr>
+</tbody></table>
+<p>One useful wrinkle: Lilly&#39;s savings card terms include a version for people <strong>with commercial insurance that doesn&#39;t cover the Zepbound KwikPen</strong>, at the same self-pay-level prices at retail pharmacies. That&#39;s relevant if your plan just stopped covering it. Read the terms, since government-insured people are excluded.</p>
+<p>Before you pay anyone, read our guide to <a href="/blog/glp-1-advertised-price-vs-bill/">advertised prices vs the actual bill</a>.</p>
+<h2 id="day-6-check-your-money-tools">Day 6: Check your money tools</h2>
+<ul>
+<li><strong>HSA or FSA:</strong> prescription medicines for a diagnosed condition may qualify. The details are in our IRS-rules explainer.</li>
+<li><strong>Budget the year, not the month.</strong> Multiply your likely monthly price by the months left in the plan year, then add visits.</li>
+<li><strong>Watch the dose ladder.</strong> Self-pay prices often rise with dose, so the price you&#39;ll pay in three months may differ from today&#39;s.</li>
+</ul>
+<h2 id="day-7-plan-for-the-next-decision-point">Day 7: Plan for the next decision point</h2>
+<ul>
+<li><strong>Can I switch plans mid-year?</strong> Usually not because of one drug. IRS cafeteria-plan rules let employers allow election changes when coverage is <em>significantly curtailed</em>, meaning an overall reduction in coverage. Losing one drug often won&#39;t count, but ask HR what your plan allows.</li>
+<li><strong>Spouse&#39;s or partner&#39;s plan?</strong> Compare it at the next open enrollment, or sooner if a qualifying event applies.</li>
+<li><strong>Open enrollment.</strong> Put the date in your calendar now, then use our <a href="/blog/open-enrollment-glp-1-coverage-2027/">2027 open-enrollment questions</a>.</li>
+</ul>
+<h2 id="the-one-page-summary">The one-page summary</h2>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Do this</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Effective date, what changed, who&#39;s affected</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Written policy, SBC/SMM, transition or exception options</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Count doses and runway</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Prescriber: options, appeal, self-pay product, safe plan</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Price self-pay with the fine print</td>
+</tr>
+<tr>
+<td>6</td>
+<td>HSA/FSA and a full-year budget</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Mid-year options, spouse&#39;s plan, open enrollment</td>
+</tr>
+</tbody></table>
+<h2 id="common-questions">Common questions</h2>
+<h3 id="can-my-employer-drop-glp-1-coverage-in-the-middle-of-the-year">Can my employer drop GLP-1 coverage in the middle of the year?</h3>
+<p>Plans can change benefits, but for job-based plans a mid-year change that affects the Summary of Benefits and Coverage generally requires notice at least 60 days before it takes effect.</p>
+<h3 id="will-i-get-a-transition-supply">Will I get a transition supply?</h3>
+<p>Only if your plan offers one. Ask HR and the plan directly and get the answer in writing.</p>
+<h3 id="can-i-use-a-manufacturer-savings-card-if-my-plan-stopped-covering-zepbound">Can I use a manufacturer savings card if my plan stopped covering Zepbound?</h3>
+<p>Lilly&#39;s terms include a savings card for people with commercial insurance that doesn&#39;t cover the KwikPen, priced at its self-pay levels. Government-insured people aren&#39;t eligible. Check the current terms.</p>
+<h3 id="should-i-stop-my-glp-1-if-i-can-39-t-afford-it-next-month">Should I stop my GLP-1 if I can&#39;t afford it next month?</h3>
+<p>Talk to your prescriber before stopping. They can plan the transition and tell you what to watch for.</p>
+1a:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+1b:["$","section",null,{"className":"sources-box","aria-labelledby":"sources","children":[["$","h2",null,{"id":"sources","children":"Sources and further reading"}],["$","ol",null,{"children":[["$","li","https://www.kff.org/health-costs/2026-employer-health-benefits-survey/",{"children":["$","a",null,{"href":"https://www.kff.org/health-costs/2026-employer-health-benefits-survey/","target":"_blank","rel":"noopener","children":"KFF: 2026 Employer Health Benefits Survey"}]}],["$","li","https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XXV/subchapter-L/part-2590/subpart-C/section-2590.715-2715",{"children":["$","a",null,{"href":"https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XXV/subchapter-L/part-2590/subpart-C/section-2590.715-2715","target":"_blank","rel":"noopener","children":"eCFR: 29 CFR 2590.715-2715, Summary of Benefits and Coverage (notice of modification)"}]}],["$","li","https://www.dol.gov/general/topic/health-plans/planinformation",{"children":["$","a",null,{"href":"https://www.dol.gov/general/topic/health-plans/planinformation","target":"_blank","rel":"noopener","children":"U.S. Department of Labor: Plan information"}]}],["$","li","https://www.ecfr.gov/current/title-26/section-1.125-4",{"children":["$","a",null,{"href":"https://www.ecfr.gov/current/title-26/section-1.125-4","target":"_blank","rel":"noopener","children":"eCFR: 26 CFR 1.125-4, permitted election changes"}]}],["$","li","https://lilly.com/lillydirect/medicines/zepbound/zepbound-tirzepatide-full-terms-conditions",{"children":["$","a",null,{"href":"https://lilly.com/lillydirect/medicines/zepbound/zepbound-tirzepatide-full-terms-conditions","target":"_blank","rel":"noopener","children":"Lilly: Zepbound self-pay and savings terms"}]}],["$","li","https://www.novocare.com/obesity/products/wegovy.html",{"children":["$","a",null,{"href":"https://www.novocare.com/obesity/products/wegovy.html","target":"_blank","rel":"noopener","children":"NovoCare: Wegovy pricing"}]}],["$","li","https://www.lilly.com/lillydirect/foundayo",{"children":["$","a",null,{"href":"https://www.lilly.com/lillydirect/foundayo","target":"_blank","rel":"noopener","children":"Lilly: Foundayo through LillyDirect"}]}]]}]]}]
+1c:["$","p",null,{"className":"post-disclaimer","children":["GLPily is a tracking companion, not a medical device, and doesn’t provide medical advice."," Written by the GLPily Editorial Team from the sources listed above."]}]
+1d:["$","section",null,{"className":"blog-cta","aria-labelledby":"cta-blog-employer-changed-glp-1-coverage","children":[["$","div",null,{"className":"blog-cta-copy","children":[["$","h2",null,{"id":"cta-blog-employer-changed-glp-1-coverage","children":"Make your GLP-1 journey easier to track 💚"}],["$","p",null,{"children":"Keep your shots, weight, food, water and symptom notes together with GLPily, and meet Pily, the little coach who answers from your own logs."}],["$","div",null,{"className":"blog-cta-links","children":[["$","a",null,{"className":"store-badge","href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-employer-changed-glp-1-coverage","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-employer-changed-glp-1-coverage","children":["$","img",null,{"src":"/google-play-badge.png","alt":"Get GLPily on Google Play","width":564,"height":168}]}],["$","a",null,{"className":"store-text-btn","href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-employer-changed-glp-1-coverage","children":[["$","svg",null,{"width":"16","height":"20","viewBox":"0 0 18 22","aria-hidden":"true","children":[["$","rect",null,{"x":"1.5","y":"1","width":"15","height":"20","rx":"3.5","fill":"none","stroke":"currentColor","strokeWidth":"1.8"}],["$","rect",null,{"x":"6.5","y":"17","width":"5","height":"1.6","rx":"0.8","fill":"currentColor"}]]}],["$","span",null,{"children":[["$","small",null,{"children":"Download GLPily on the"}],"App Store"]}]]}]]}]]}],["$","img",null,{"className":"blog-cta-pily","src":"/pily/wave.png","alt":"Pily, the GLPily axolotl mascot, waving","width":202,"height":155,"loading":"lazy"}],["$","ul",null,{"className":"blog-cta-feats","aria-label":"What GLPily tracks","children":[["$","li","Shot tracking",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M18 2l4 4M20 4l-9 9M14 6l4 4M12.5 7.5L4.5 15.5 3 21l5.5-1.5 8-8M6 15l3 3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Shot tracking"]}],["$","li","Water & symptoms",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.5S5.5 10 5.5 14.5a6.5 6.5 0 0 0 13 0C18.5 10 12 2.5 12 2.5z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Water & symptoms"]}],["$","li","Weight trends",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M4 20V14M9 20V9M14 20v-7M19 20V5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Weight trends"]}],["$","li","Journal",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M6 2h9l4 4v16H6zM9.5 11h6M9.5 15h6M9.5 7h3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Journal"]}],["$","li","Food scanner",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 11h18a9 9 0 0 1-18 0zM9 7c0-2 1-3 1-5M14 7c0-2 1-3 1-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Food scanner"]}],["$","li","Progress photos",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 7h4l2-3h6l2 3h4v13H3zM12 17a4 4 0 1 0 0-8 4 4 0 0 0 0 8z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Progress photos"]}]]}],["$","span",null,{"className":"cta-heart","aria-hidden":"true","children":["$","svg",null,{"width":46,"height":46,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]
+1e:["$","aside",null,{"className":"art-side","children":[["$","section",null,{"className":"side-card","children":[["$","h2",null,{"children":"Related posts"}],[["$","$L4","glp-1-coverage-denial-appeal-organize",{"href":"/blog/glp-1-coverage-denial-appeal-organize/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glp-1-coverage-denial-appeal-organize.webp","srcSet":"/blog/glp-1-coverage-denial-appeal-organize-320.webp 480w, /blog/glp-1-coverage-denial-appeal-organize.webp 960w","sizes":"80px","alt":"A woman at a kitchen counter calmly sorting papers into three neat piles with sticky notes, a laptop open beside her.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 Denied by Insurance? How to Organize Your Appeal"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L4","glp-1-advertised-price-vs-bill",{"href":"/blog/glp-1-advertised-price-vs-bill/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glp-1-advertised-price-vs-bill.webp","srcSet":"/blog/glp-1-advertised-price-vs-bill-320.webp 480w, /blog/glp-1-advertised-price-vs-bill.webp 960w","sizes":"80px","alt":"A person holding a magnifying glass over a long paper receipt on a cafe table.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 Price vs Your Bill: Why \"From $149\" Isn't What You Pay"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",6," min read"]}]]}]]}],["$","$L4","hsa-fsa-weight-loss-treatment-irs",{"href":"/blog/hsa-fsa-weight-loss-treatment-irs/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/hsa-fsa-weight-loss-treatment-irs.webp","srcSet":"/blog/hsa-fsa-weight-loss-treatment-irs-320.webp 480w, /blog/hsa-fsa-weight-loss-treatment-irs.webp 960w","sizes":"80px","alt":"A small pink piggy bank next to a folded stack of receipts and a pen on a light blue background.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"Can You Use an HSA or FSA for GLP-1s? What the IRS Rules Say"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",6," min read"]}]]}]]}]]]}],["$","section",null,{"className":"side-card tips","children":[["$","h2",null,{"children":[["$","svg",null,{"width":22,"height":22,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Quick tips"]}],["$","ul",null,{"children":[["$","li","Find the effective date first; it sets your whole timeline.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Find the effective date first; it sets your whole timeline."]}],["$","li","Count how many doses you have left before that date, then book your prescriber.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":"$L2b"}],"Count how many doses you have left before that date, then book your prescriber."]}],"$L2c"]}]]}],"$L2d"]}]
+21:null
+17:true
+a:300
+2b:["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]
+2c:["$","li","Don't stretch, skip or stockpile doses on your own; plan the transition with your prescriber.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Don't stretch, skip or stockpile doses on your own; plan the transition with your prescriber."]}]
+2d:["$","section",null,{"className":"side-card glp-tip","children":[["$","h2",null,{"children":[["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"currentColor","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," GLPily tip"]}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}]]}]
+a:C
+16:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+13:"$undefined"
+15:"$undefined"
+9:"$undefined"

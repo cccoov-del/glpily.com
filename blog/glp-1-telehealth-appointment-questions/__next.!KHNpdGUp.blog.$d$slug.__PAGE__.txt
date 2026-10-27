@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:I[90031,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],"ViewPing"]
+4:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],""]
+:HL["/blog/glp-1-telehealth-appointment-questions.webp","image",{"imageSrcSet":"/blog/glp-1-telehealth-appointment-questions-320.webp 480w, /blog/glp-1-telehealth-appointment-questions.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+3:T592,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"GLP-1 Telehealth Appointment Questions to Ask Before You Pay","description":"GLP-1 telehealth appointment questions: what the screening, the follow-up plan and the full price should cover before you enter a card number.","url":"https://glpily.com/blog/glp-1-telehealth-appointment-questions/","mainEntityOfPage":"https://glpily.com/blog/glp-1-telehealth-appointment-questions/","image":"https://glpily.com/blog/glp-1-telehealth-appointment-questions.webp","datePublished":"2026-10-27","dateModified":"2026-10-27","author":{"@type":"Organization","name":"GLPily Editorial Team","url":"https://glpily.com"},"publisher":{"@type":"Organization","name":"GLPily","logo":{"@type":"ImageObject","url":"https://glpily.com/icon-512.png"}},"articleSection":"Guides","keywords":"GLP-1 telehealth appointment questions, online GLP-1 prescription what to ask, telehealth weight loss visit checklist, GLP-1 telehealth membership fee","inLanguage":"en-US"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://glpily.com/blog/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://glpily.com/blog/category/guides/"},{"@type":"ListItem","position":3,"name":"GLP-1 Telehealth Appointment Questions to Ask Before You Pay","item":"https://glpily.com/blog/glp-1-telehealth-appointment-questions/"}]}]}a:X
+f:X
+f:C
+0:{"buildId":"9Q2cl1A9kptHbLYnte8jc","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog","children":[["$","$L2",null,{"slug":"glp-1-telehealth-appointment-questions"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","article",null,{"children":[["$","header",null,{"className":"art-hero container-wide","children":[["$","div",null,{"className":"art-hero-copy","children":[["$","ol",null,{"className":"crumbs","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/category/guides/","children":"Guides"}]}],["$","li",null,{"aria-current":"page","children":"GLP-1 Telehealth Appointment Questions to Ask Before You Pay"}]]}],["$","div",null,{"className":"art-meta-top","children":[["$","span",null,{"className":"pill-tag mint","children":"Guides"}],null,["$","span",null,{"className":"read","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",8," min read"]}]]}],["$","h1",null,{"children":"GLP-1 Telehealth Appointment Questions to Ask Before You Pay"}],["$","p",null,{"className":"lead","children":"A good GLP-1 telehealth visit explains who is screening you, what exactly you will be prescribed, who follows up, and what the whole thing costs. Here is the checklist to run before you pay."}],["$","p",null,{"className":"byline","children":[["$","span",null,{"className":"avatar-dot","aria-hidden":"true","children":"♡"}],["$","span",null,{"children":[["$","b",null,{"children":["By ","GLPily Editorial Team"]}],["$","br",null,{}],["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],null]}]]}]]}],["$","div",null,{"className":"art-hero-img","children":[["$","span",null,{"className":"script","aria-hidden":"true","children":"Ask before you pay ♡"}],["$","img",null,{"className":"post-img","src":"/blog/glp-1-telehealth-appointment-questions.webp","srcSet":"/blog/glp-1-telehealth-appointment-questions-320.webp 480w, /blog/glp-1-telehealth-appointment-questions.webp 960w","sizes":"(max-width: 960px) 100vw, 500px","alt":"A woman on a video call with a clinician from her kitchen table, a notebook and a mug of tea beside the laptop.","width":960,"height":640,"loading":"eager","fetchPriority":"high","decoding":"async"}]]}]]}],"$L5"]}]]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$a","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+1f:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+23:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+24:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+25:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+26:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[46263,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Nav"]
+28:I[69925,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"FooterBody"]
+29:I[75146,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Analytics"]
+:HL["/_next/static/chunks/3-b83rfoml2bs.css","style"]
+:HL["/_next/static/chunks/3c_ik8-42mq3-.css","style"]
+18:T170f,<p>Before you pay for a GLP-1 telehealth program, the visit should tell you three things clearly: <strong>who is screening you and how</strong>, <strong>exactly what will be prescribed and by which pharmacy</strong>, and <strong>what follow-up and the full monthly cost look like</strong>. If any of those stay fuzzy after the appointment, you have not finished shopping yet.</p>
+<p>Telehealth can be a genuinely good way to start treatment. It saves the drive, fits around work and can connect you with clinicians who see a lot of GLP-1 patients. But a slick quiz and a &quot;you&#39;re approved!&quot; screen are not the same thing as care. This checklist helps you tell the difference in about ten minutes.</p>
+<h2 id="who-is-actually-responsible-for-my-care">Who is actually responsible for my care?</h2>
+<p>You open the site, answer twenty questions, and an hour later a message says a provider has &quot;reviewed your intake.&quot; Fine. Now find out who that provider is.</p>
+<ul>
+<li><strong>Name and credentials.</strong> Ask for the prescriber&#39;s name and whether they are a physician, nurse practitioner or physician assistant.</li>
+<li><strong>Licensed where you are.</strong> In the US, a telehealth visit is generally treated as happening where <em>you</em> are, so the clinician needs to be licensed (or otherwise legally allowed) to practice in your state. Many physicians hold several state licenses, some obtained through the Interstate Medical Licensure Compact. You can look them up on your state medical or nursing board&#39;s license search.</li>
+<li><strong>Real-time or asynchronous?</strong> Some programs prescribe from a form plus messages; others require a video visit. Neither is automatically wrong, but you should know which one you are buying, and how to get a live conversation if you need one.</li>
+</ul>
+<h2 id="what-should-the-screening-ask-me">What should the screening ask me?</h2>
+<p>A real screening goes beyond height and weight. The FDA-approved labels for GLP-1 medicines list conditions and medicines that change whether, or how, a drug should be used. A careful intake will ask about things like:</p>
+<ul>
+<li><strong>Personal or family history of medullary thyroid carcinoma (MTC) or MEN 2.</strong> The Wegovy and Zepbound labels list these as contraindications. (More on what that warning means in <a href="/blog/glp-1-thyroid-cancer-warning-explained/">our thyroid warning explainer</a>.)</li>
+<li><strong>Pregnancy, breastfeeding or plans to conceive.</strong> The Wegovy label, for example, says to stop the medicine at least 2 months before a planned pregnancy because semaglutide stays in the body a long time.</li>
+<li><strong>Your other medicines.</strong> Insulin or sulfonylureas raise low-blood-sugar risk alongside a GLP-1, and the Zepbound label has specific instructions for people on oral birth control (see <a href="/blog/tirzepatide-oral-contraceptive-pill/">our tirzepatide and the pill guide</a>).</li>
+<li><strong>History of pancreatitis, gallbladder disease, kidney problems, diabetic eye disease or depression.</strong> These all appear in the warnings sections of the labels.</li>
+</ul>
+<p>If the intake never asks about any of this, that tells you something about the program. Use <a href="/blog/questions-before-starting-glp-1/">our questions before starting a GLP-1</a> to prepare your own answers.</p>
+<h2 id="what-exactly-am-i-being-prescribed">What exactly am I being prescribed?</h2>
+<p>This is where many people get surprised later. Ask for, in writing:</p>
+<ol>
+<li><strong>The exact product.</strong> Is it FDA-approved Wegovy, Zepbound, the Wegovy pill, or a <em>compounded</em> semaglutide or tirzepatide?</li>
+<li><strong>The dispensing pharmacy.</strong> Its name and the state(s) where it is licensed.</li>
+<li><strong>The form and starting dose,</strong> plus where to read the official label or patient information.</li>
+</ol>
+<p>Compounded drugs are not FDA-approved, and the FDA does not review them for safety, effectiveness or quality before they are sold. That does not make every compounded prescription illegal, but it does mean a site calling one &quot;the same as Wegovy&quot; is making a claim the FDA has repeatedly objected to. Our <a href="/blog/fda-telehealth-glp-1-warning-letters-2026/">FDA telehealth warning letters explainer</a> walks through the exact phrases regulators flagged. To check the pharmacy itself, use <a href="/blog/check-legitimate-online-pharmacy-glp-1/">our online pharmacy verification guide</a>.</p>
+<h2 id="what-does-follow-up-look-like-after-the-first-prescription">What does follow-up look like after the first prescription?</h2>
+<p>GLP-1 treatment is not a one-and-done purchase. The labels for injectable semaglutide and tirzepatide both increase the dose in steps, generally every 4 weeks, which means decisions keep coming for months. Ask:</p>
+<ul>
+<li><strong>Who decides on dose changes,</strong> and is that a scheduled check-in or something you have to request?</li>
+<li><strong>How do I report side effects,</strong> and how fast is a typical reply? Hours? Two business days?</li>
+<li><strong>What happens if I miss doses or need to pause?</strong> The labels have specific restart rules, and someone should apply them to you. (Our <a href="/blog/missed-glp-1-dose-instructions/">missed dose guide</a> explains what the labels say.)</li>
+<li><strong>Are labs ordered,</strong> and who reviews them?</li>
+<li><strong>What is the after-hours plan?</strong> The honest answer for severe symptoms (bad abdominal pain, signs of an allergic reaction, fainting) is &quot;call 911 or go to the ER,&quot; and the program should say so plainly.</li>
+</ul>
+<p>Bring something to those follow-ups. A simple shot log with your symptoms and weight, whether on paper or in an app like GLPily, makes a five-minute message far more useful than &quot;I feel kind of off.&quot;</p>
+5:["$","div",null,{"className":"art-body container-wide","children":[["$","nav",null,{"className":"toc","aria-label":"On this page","children":[["$","p",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","who-is-actually-responsible-for-my-care",{"children":["$","a",null,{"href":"#who-is-actually-responsible-for-my-care","children":"Who is actually responsible for my care?"}]}],["$","li","what-should-the-screening-ask-me",{"children":["$","a",null,{"href":"#what-should-the-screening-ask-me","children":"What should the screening ask me?"}]}],["$","li","what-exactly-am-i-being-prescribed",{"children":["$","a",null,{"href":"#what-exactly-am-i-being-prescribed","children":"What exactly am I being prescribed?"}]}],["$","li","what-does-follow-up-look-like-after-the-first-prescription",{"children":["$","a",null,{"href":"#what-does-follow-up-look-like-after-the-first-prescription","children":"What does follow-up look like after the first prescription?"}]}],["$","li","how-much-will-it-really-cost-per-month",{"children":["$","a",null,{"href":"#how-much-will-it-really-cost-per-month","children":"How much will it really cost per month?"}]}],["$","li","the-12-point-pre-payment-checklist",{"children":["$","a",null,{"href":"#the-12-point-pre-payment-checklist","children":"The 12-point pre-payment checklist"}]}],["$","li","red-flags-worth-pausing-on",{"children":["$","a",null,{"href":"#red-flags-worth-pausing-on","children":"Red flags worth pausing on"}]}],["$","li","common-questions",{"children":["$","a",null,{"href":"#common-questions","children":"Common questions"}]}]]}]]}],["$","div",null,{"className":"art-main","children":[[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19","$L1a"],"$L1b","$L1c","$L1d"]}],"$L1e"]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3-b83rfoml2bs.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3scnevsf2n-wh.js","async":true}]
+8:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+b:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"GLP-1 Telehealth Questions to Ask Before You Pay | GLPily"}],["$","meta","1",{"name":"description","content":"GLP-1 telehealth appointment questions: what the screening, the follow-up plan and the full price should cover before you enter a card number."}],["$","meta","2",{"name":"author","content":"GLPily Editorial Team"}],["$","meta","3",{"name":"keywords","content":"GLP-1 telehealth appointment questions,online GLP-1 prescription what to ask,telehealth weight loss visit checklist,GLP-1 telehealth membership fee"}],["$","link","4",{"rel":"canonical","href":"https://glpily.com/blog/glp-1-telehealth-appointment-questions/"}],["$","meta","5",{"property":"og:title","content":"GLP-1 Telehealth Appointment Questions to Ask Before You Pay"}],["$","meta","6",{"property":"og:description","content":"GLP-1 telehealth appointment questions: what the screening, the follow-up plan and the full price should cover before you enter a card number."}],["$","meta","7",{"property":"og:url","content":"https://glpily.com/blog/glp-1-telehealth-appointment-questions/"}],["$","meta","8",{"property":"og:image","content":"https://glpily.com/blog/glp-1-telehealth-appointment-questions.webp"}],["$","meta","9",{"property":"og:image:width","content":"960"}],["$","meta","10",{"property":"og:image:height","content":"640"}],["$","meta","11",{"property":"og:image:alt","content":"A woman on a video call with a clinician from her kitchen table, a notebook and a mug of tea beside the laptop."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-10-27"}],["$","meta","14",{"property":"article:modified_time","content":"2026-10-27"}],["$","meta","15",{"property":"article:section","content":"Guides"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"GLP-1 Telehealth Appointment Questions to Ask Before You Pay"}],["$","meta","18",{"name":"twitter:description","content":"GLP-1 telehealth appointment questions: what the screening, the follow-up plan and the full price should cover before you enter a card number."}],["$","meta","19",{"name":"twitter:image","content":"https://glpily.com/blog/glp-1-telehealth-appointment-questions.webp"}],["$","link","20",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/icon-512.png","sizes":"512x512"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icon-180.png"}],["$","$L24","23",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+12:["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/40y-qcn60dbb_.js","async":true}]],[["$","$L27",null,{}],["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L28",null,{"year":2026}],["$","$L29",null,{}]]]}]
+14:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"en","className":"inter_ba811ce-module__p8rHea__variable caveat_ba01c793-module__6ynXca__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]
+:HL["/google-play-badge.png","image"]
+19:["$","aside",null,{"className":"pily-mid","aria-label":"From GLPily","children":[["$","img",null,{"src":"/pily/think.png","alt":"","width":195,"height":190,"loading":"lazy"}],["$","div",null,{"children":[["$","p",null,{"className":"pily-mid-title","children":"Pily’s tip"}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}],["$","p",null,{"className":"pily-mid-links","children":[["$","a",null,{"href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-telehealth-appointment-questions-mid","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-telehealth-appointment-questions-mid","children":"Get GLPily on Google Play"}],["$","span",null,{"aria-hidden":"true","children":" · "}],["$","a",null,{"href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-telehealth-appointment-questions-mid","children":"Download on the App Store"}]]}]]}]]}]
+2a:T1480,<h2 id="how-much-will-it-really-cost-per-month">How much will it really cost per month?</h2>
+<p>Telehealth pricing often has two or three layers, and the headline number may cover only one of them. Get each line in writing:</p>
+<table>
+<thead>
+<tr>
+<th>Cost line</th>
+<th>What to ask</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Visit or membership fee</td>
+<td>Monthly or one-time? Charged even in months nothing is prescribed?</td>
+</tr>
+<tr>
+<td>Medication</td>
+<td>Included, or billed separately by the pharmacy or manufacturer? Does the price change at higher doses?</td>
+</tr>
+<tr>
+<td>Labs</td>
+<td>Required? Ordered through your insurance or paid out of pocket?</td>
+</tr>
+<tr>
+<td>Shipping and supplies</td>
+<td>Cold-chain shipping, needles, sharps container?</td>
+</tr>
+<tr>
+<td>Insurance</td>
+<td>Will they submit a prior authorization, or is it cash-only?</td>
+</tr>
+<tr>
+<td>Cancellation</td>
+<td>How do you cancel, and is there a refund if you are not prescribed anything?</td>
+</tr>
+</tbody></table>
+<p>For context, manufacturers now publish their own cash prices. NovoCare&#39;s site, checked in October 2026, lists Wegovy pens at $349 a month after an introductory $199 for the first two fills (offer through December 31, 2026) and the Wegovy pill starting at $149 a month, with eligibility rules and the note that self-pay amounts do not count toward your deductible. Lilly publishes Zepbound self-pay prices on LillyDirect. Prices change, so check the official pages on the day you compare. If a telehealth program&#39;s &quot;all-in&quot; price is higher than the manufacturer&#39;s cash price, ask what the difference is paying for. Our <a href="/blog/glp-1-advertised-price-vs-bill/">advertised price vs bill guide</a> has more on why the numbers drift.</p>
+<h2 id="the-12-point-pre-payment-checklist">The 12-point pre-payment checklist</h2>
+<p>Copy this into your notes and tick it off during or after the visit.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Before you pay, I know…</th>
+<th>✓</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>The prescriber&#39;s name and credentials</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>That they can practice in my state</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Whether the visit is live or form-based</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>That my history, pregnancy plans and other medicines were reviewed</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>The exact product: brand-name or compounded</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>The dispensing pharmacy and its license</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Where to read the official label or patient information</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Who handles dose changes, and when</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>How to report side effects and the expected reply time</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>What to do in an emergency</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Every monthly cost line, added up</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>How to cancel and what is refundable</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="red-flags-worth-pausing-on">Red flags worth pausing on</h2>
+<ul>
+<li>&quot;No consultation needed&quot; or approval that feels guaranteed before anyone sees your history.</li>
+<li>A countdown timer or &quot;only 3 spots left&quot; pressure.</li>
+<li>Promises of a specific number of pounds by a specific date.</li>
+<li>Words like &quot;generic Wegovy&quot; or &quot;same as Zepbound&quot; attached to a compounded product.</li>
+<li>No way to reach a clinician except a chatbot.</li>
+</ul>
+<p>None of these prove a program is unsafe. They are just signs that the marketing is doing more work than the medicine.</p>
+<h2 id="common-questions">Common questions</h2>
+<h3 id="is-it-legal-to-get-a-glp-1-prescription-through-telehealth">Is it legal to get a GLP-1 prescription through telehealth?</h3>
+<p>Yes. GLP-1 medicines are prescription drugs, not controlled substances, and licensed clinicians can prescribe them after a telehealth evaluation. The clinician still has to be allowed to practice in the state where you are, and the pharmacy still has to be properly licensed.</p>
+<h3 id="do-i-need-a-video-visit-or-is-a-questionnaire-enough">Do I need a video visit, or is a questionnaire enough?</h3>
+<p>Rules vary by state and by program. What matters most is that a licensed clinician actually reviews your history and medicines and that you can reach them with questions. If you would feel better with a live conversation, ask for one before paying.</p>
+<h3 id="will-a-telehealth-company-bill-my-insurance">Will a telehealth company bill my insurance?</h3>
+<p>Some will submit prior authorizations or send prescriptions to a pharmacy that bills your plan; many are cash-only. Ask directly, and check your plan&#39;s formulary yourself before assuming coverage.</p>
+<h3 id="what-should-i-do-if-i-get-side-effects-and-cannot-reach-the-provider">What should I do if I get side effects and cannot reach the provider?</h3>
+<p>For severe symptoms, call 911 or go to an emergency department. For a suspected overdose or taking the wrong amount, call Poison Control at 1-800-222-1222. For milder questions, your local pharmacist can often help while you wait for the program to reply.</p>
+1a:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+1b:["$","section",null,{"className":"sources-box","aria-labelledby":"sources","children":[["$","h2",null,{"id":"sources","children":"Sources and further reading"}],["$","ol",null,{"children":[["$","li","https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s",{"children":["$","a",null,{"href":"https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s","target":"_blank","rel":"noopener","children":"FDA: FDA Warns 30 Telehealth Companies Against Illegal Marketing of Compounded GLP-1s (March 3, 2026)"}]}],["$","li","https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",{"children":["$","a",null,{"href":"https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss","target":"_blank","rel":"noopener","children":"FDA: FDA's Concerns with Unapproved GLP-1 Drugs Used for Weight Loss"}]}],["$","li","https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",{"children":["$","a",null,{"href":"https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b","target":"_blank","rel":"noopener","children":"DailyMed: Wegovy (semaglutide) prescribing information"}]}],["$","li","https://www.novocare.com/patient/medicines/wegovy.html",{"children":["$","a",null,{"href":"https://www.novocare.com/patient/medicines/wegovy.html","target":"_blank","rel":"noopener","children":"NovoCare: Wegovy cost, coverage and savings resources"}]}],["$","li","https://www.imlcc.com/",{"children":["$","a",null,{"href":"https://www.imlcc.com/","target":"_blank","rel":"noopener","children":"Interstate Medical Licensure Compact"}]}]]}]]}]
+1c:["$","p",null,{"className":"post-disclaimer","children":["GLPily is a tracking companion, not a medical device, and doesn’t provide medical advice."," Written by the GLPily Editorial Team from the sources listed above."]}]
+1d:["$","section",null,{"className":"blog-cta","aria-labelledby":"cta-blog-glp-1-telehealth-appointment-questions","children":[["$","div",null,{"className":"blog-cta-copy","children":[["$","h2",null,{"id":"cta-blog-glp-1-telehealth-appointment-questions","children":"Make your GLP-1 journey easier to track 💚"}],["$","p",null,{"children":"Keep your shots, weight, food, water and symptom notes together with GLPily, and meet Pily, the little coach who answers from your own logs."}],["$","div",null,{"className":"blog-cta-links","children":[["$","a",null,{"className":"store-badge","href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-telehealth-appointment-questions","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-telehealth-appointment-questions","children":["$","img",null,{"src":"/google-play-badge.png","alt":"Get GLPily on Google Play","width":564,"height":168}]}],["$","a",null,{"className":"store-text-btn","href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-telehealth-appointment-questions","children":[["$","svg",null,{"width":"16","height":"20","viewBox":"0 0 18 22","aria-hidden":"true","children":[["$","rect",null,{"x":"1.5","y":"1","width":"15","height":"20","rx":"3.5","fill":"none","stroke":"currentColor","strokeWidth":"1.8"}],["$","rect",null,{"x":"6.5","y":"17","width":"5","height":"1.6","rx":"0.8","fill":"currentColor"}]]}],["$","span",null,{"children":[["$","small",null,{"children":"Download GLPily on the"}],"App Store"]}]]}]]}]]}],["$","img",null,{"className":"blog-cta-pily","src":"/pily/wave.png","alt":"Pily, the GLPily axolotl mascot, waving","width":202,"height":155,"loading":"lazy"}],["$","ul",null,{"className":"blog-cta-feats","aria-label":"What GLPily tracks","children":[["$","li","Shot tracking",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M18 2l4 4M20 4l-9 9M14 6l4 4M12.5 7.5L4.5 15.5 3 21l5.5-1.5 8-8M6 15l3 3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Shot tracking"]}],["$","li","Water & symptoms",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.5S5.5 10 5.5 14.5a6.5 6.5 0 0 0 13 0C18.5 10 12 2.5 12 2.5z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Water & symptoms"]}],["$","li","Weight trends",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M4 20V14M9 20V9M14 20v-7M19 20V5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Weight trends"]}],["$","li","Journal",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M6 2h9l4 4v16H6zM9.5 11h6M9.5 15h6M9.5 7h3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Journal"]}],["$","li","Food scanner",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 11h18a9 9 0 0 1-18 0zM9 7c0-2 1-3 1-5M14 7c0-2 1-3 1-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Food scanner"]}],["$","li","Progress photos",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 7h4l2-3h6l2 3h4v13H3zM12 17a4 4 0 1 0 0-8 4 4 0 0 0 0 8z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Progress photos"]}]]}],["$","span",null,{"className":"cta-heart","aria-hidden":"true","children":["$","svg",null,{"width":46,"height":46,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]
+1e:["$","aside",null,{"className":"art-side","children":[["$","section",null,{"className":"side-card","children":[["$","h2",null,{"children":"Related posts"}],[["$","$L4","questions-before-starting-glp-1",{"href":"/blog/questions-before-starting-glp-1/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/questions-before-starting-glp-1.webp","srcSet":"/blog/questions-before-starting-glp-1-320.webp 480w, /blog/questions-before-starting-glp-1.webp 960w","sizes":"80px","alt":"A woman writing a list of questions, representing preparing for a first appointment.","width":960,"height":600,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"Questions to Ask Before Starting a GLP-1 Medicine"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",4," min read"]}]]}]]}],["$","$L4","fda-telehealth-glp-1-warning-letters-2026",{"href":"/blog/fda-telehealth-glp-1-warning-letters-2026/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/fda-telehealth-glp-1-warning-letters-2026.webp","srcSet":"/blog/fda-telehealth-glp-1-warning-letters-2026-320.webp 480w, /blog/fda-telehealth-glp-1-warning-letters-2026.webp 960w","sizes":"80px","alt":"A stack of plain sealed envelopes on a dark wooden desk lit by a brass desk lamp.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"FDA GLP-1 Telehealth Warning Letters: What They Said in 2026"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L4","check-legitimate-online-pharmacy-glp-1",{"href":"/blog/check-legitimate-online-pharmacy-glp-1/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/check-legitimate-online-pharmacy-glp-1.webp","srcSet":"/blog/check-legitimate-online-pharmacy-glp-1-320.webp 480w, /blog/check-legitimate-online-pharmacy-glp-1.webp 960w","sizes":"80px","alt":"Hands holding a magnifying glass over a smartphone resting on a wooden desk beside a small potted plant.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"Is This Online Pharmacy Legit? A 5-Step GLP-1 Check"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}]]]}],["$","section",null,{"className":"side-card tips","children":[["$","h2",null,{"children":[["$","svg",null,{"width":22,"height":22,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Quick tips"]}],["$","ul",null,{"children":[["$","li","Ask who the prescriber is and confirm they can practice in your state.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Ask who the prescriber is and confirm they can practice in your state."]}],["$","li","Get the exact drug name, form and dispensing pharmacy in writing.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":"$L2b"}],"Get the exact drug name, form and dispensing pharmacy in writing."]}],"$L2c"]}]]}],"$L2d"]}]
+21:null
+17:true
+a:300
+2b:["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]
+2c:["$","li","Add membership, medication, labs and shipping into one monthly number.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Add membership, medication, labs and shipping into one monthly number."]}]
+2d:["$","section",null,{"className":"side-card glp-tip","children":[["$","h2",null,{"children":[["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"currentColor","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," GLPily tip"]}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}]]}]
+a:C
+16:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+13:"$undefined"
+15:"$undefined"
+9:"$undefined"

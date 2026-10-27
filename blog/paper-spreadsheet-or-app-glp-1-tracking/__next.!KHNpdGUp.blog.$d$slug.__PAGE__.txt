@@ -1,0 +1,275 @@
+1:"$Sreact.fragment"
+2:I[90031,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],"ViewPing"]
+4:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],""]
+:HL["/blog/paper-spreadsheet-or-app-glp-1-tracking.webp","image",{"imageSrcSet":"/blog/paper-spreadsheet-or-app-glp-1-tracking-320.webp 480w, /blog/paper-spreadsheet-or-app-glp-1-tracking.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+3:T5c3,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"Paper, Spreadsheet or App for GLP-1 Tracking? A 6-Question Guide","description":"Paper, spreadsheet or app for GLP-1 tracking? Answer six quick questions to find your fit, then copy a ready-made spreadsheet layout or paper log page.","url":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking/","mainEntityOfPage":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking/","image":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking.webp","datePublished":"2026-10-27","dateModified":"2026-10-27","author":{"@type":"Organization","name":"GLPily Editorial Team","url":"https://glpily.com"},"publisher":{"@type":"Organization","name":"GLPily","logo":{"@type":"ImageObject","url":"https://glpily.com/icon-512.png"}},"articleSection":"Tracking & Progress","keywords":"GLP-1 tracking spreadsheet or app, GLP-1 tracking spreadsheet template, GLP-1 log paper template, best way to track GLP-1 shots, GLP-1 tracker options","inLanguage":"en-US"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://glpily.com/blog/"},{"@type":"ListItem","position":2,"name":"Tracking & Progress","item":"https://glpily.com/blog/category/tracking/"},{"@type":"ListItem","position":3,"name":"Paper, Spreadsheet or App for GLP-1 Tracking? A 6-Question Guide","item":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking/"}]}]}a:X
+f:X
+f:C
+0:{"buildId":"9Q2cl1A9kptHbLYnte8jc","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog","children":[["$","$L2",null,{"slug":"paper-spreadsheet-or-app-glp-1-tracking"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","article",null,{"children":[["$","header",null,{"className":"art-hero container-wide","children":[["$","div",null,{"className":"art-hero-copy","children":[["$","ol",null,{"className":"crumbs","children":[["$","li",null,{"children":["$","$L4",null,{"href":"/blog/","children":"Blog"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/blog/category/tracking/","children":"Tracking & Progress"}]}],["$","li",null,{"aria-current":"page","children":"Paper, Spreadsheet or App for GLP-1 Tracking? A 6-Question Guide"}]]}],["$","div",null,{"className":"art-meta-top","children":[["$","span",null,{"className":"pill-tag mint","children":"Tracking & Progress"}],null,["$","span",null,{"className":"read","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}],["$","h1",null,{"children":"Paper, Spreadsheet or App for GLP-1 Tracking? A 6-Question Guide"}],["$","p",null,{"className":"lead","children":"Six yes-or-no questions point you to paper, a spreadsheet, an app or a mix. Then grab the matching template: a spreadsheet column layout or a one-week paper page."}],["$","p",null,{"className":"byline","children":[["$","span",null,{"className":"avatar-dot","aria-hidden":"true","children":"♡"}],["$","span",null,{"children":[["$","b",null,{"children":["By ","GLPily Editorial Team"]}],["$","br",null,{}],["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],null]}]]}]]}],["$","div",null,{"className":"art-hero-img","children":[["$","span",null,{"className":"script","aria-hidden":"true","children":"Simple and kept beats perfect and abandoned ♡"}],["$","img",null,{"className":"post-img","src":"/blog/paper-spreadsheet-or-app-glp-1-tracking.webp","srcSet":"/blog/paper-spreadsheet-or-app-glp-1-tracking-320.webp 480w, /blog/paper-spreadsheet-or-app-glp-1-tracking.webp 960w","sizes":"(max-width: 960px) 100vw, 500px","alt":"A signpost with three blank arrows pointing in different directions on a sunny garden path.","width":960,"height":640,"loading":"eager","fetchPriority":"high","decoding":"async"}]]}]]}],"$L5"]}]]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$a","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+1f:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+23:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+24:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+25:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+26:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[46263,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Nav"]
+28:I[69925,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"FooterBody"]
+29:I[75146,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Analytics"]
+:HL["/_next/static/chunks/3-b83rfoml2bs.css","style"]
+:HL["/_next/static/chunks/3c_ik8-42mq3-.css","style"]
+18:T1b30,<p><strong>Should you track your GLP-1 on paper, in a spreadsheet or in an app?</strong> Choose <strong>paper</strong> if you want simple and offline, a <strong>spreadsheet</strong> if you love custom charts and control, and an <strong>app</strong> if you need reminders and want everything in one place with little effort. Answer the six questions below and the right fit usually becomes obvious.</p>
+<p>There is no prize for the fanciest system. In a long-running trial comparing paper and electronic self-monitoring for weight loss, how consistently people logged mattered more than which tool they used. So the goal here is the setup you will still be using in month four.</p>
+<h2 id="the-6-question-decision-guide">The 6-question decision guide</h2>
+<p>Go through these in order. Each answer nudges you toward one option. Tally them as you go.</p>
+<h3 id="1-have-you-missed-or-nearly-missed-a-dose-day-in-the-last-two-months">1. Have you missed or nearly missed a dose day in the last two months?</h3>
+<ul>
+<li><strong>Yes →</strong> App (+2). Reminders are the single biggest thing paper and spreadsheets cannot do on their own. You <em>can</em> pair paper with a phone alarm, but that is two systems.</li>
+<li><strong>No →</strong> No points. Your memory or routine is already doing the job.</li>
+</ul>
+<h3 id="2-do-you-want-to-see-charts-without-making-them-yourself">2. Do you want to see charts without making them yourself?</h3>
+<ul>
+<li><strong>Yes, automatically →</strong> App (+1).</li>
+<li><strong>Yes, and I want to design them →</strong> Spreadsheet (+2).</li>
+<li><strong>Not really →</strong> Paper (+1).</li>
+</ul>
+<h3 id="3-how-do-you-feel-about-your-health-data-being-stored-by-a-company">3. How do you feel about your health data being stored by a company?</h3>
+<ul>
+<li><strong>Uneasy →</strong> Paper (+2). Nothing leaves your house.</li>
+<li><strong>Fine if I control the file →</strong> Spreadsheet (+1). On your own computer, or in a cloud drive you manage.</li>
+<li><strong>Fine if the policy is clear →</strong> App (+1). Our <a href="/blog/glp-1-app-privacy-policy-checklist/">privacy policy checklist</a> shows what &quot;clear&quot; looks like.</li>
+</ul>
+<h3 id="4-where-are-you-when-you-take-your-shot-or-pill">4. Where are you when you take your shot or pill?</h3>
+<ul>
+<li><strong>Same place every week, with a drawer nearby →</strong> Paper (+1).</li>
+<li><strong>Usually at a computer →</strong> Spreadsheet (+1).</li>
+<li><strong>All over the place: work, travel, the couch →</strong> App (+1). Your phone is with you; your notebook may not be.</li>
+</ul>
+<h3 id="5-do-you-track-more-than-doses-and-weight">5. Do you track more than doses and weight?</h3>
+<p>Food, water, symptoms, measurements, photos, mood?</p>
+<ul>
+<li><strong>Yes, several →</strong> App (+2). Paper gets crowded, and spreadsheets get many tabs.</li>
+<li><strong>Just one or two things →</strong> Paper or spreadsheet (+1 each).</li>
+</ul>
+<h3 id="6-will-you-share-this-with-your-prescriber">6. Will you share this with your prescriber?</h3>
+<ul>
+<li><strong>Yes, regularly →</strong> App or spreadsheet (+1 each). Both can produce a tidy summary; paper needs photocopying or photos.</li>
+<li><strong>Rarely →</strong> No points.</li>
+</ul>
+<h3 id="your-result">Your result</h3>
+<ul>
+<li><strong>Paper wins:</strong> you value privacy and simplicity, and your routine is steady.</li>
+<li><strong>Spreadsheet wins:</strong> you like control, custom views and owning the file.</li>
+<li><strong>App wins:</strong> you want reminders, many kinds of tracking and less effort.</li>
+<li><strong>A tie:</strong> consider a hybrid (below).</li>
+</ul>
+<h2 id="if-you-chose-a-spreadsheet-a-ready-made-layout">If you chose a spreadsheet: a ready-made layout</h2>
+<p>Use one row per event and keep the column names consistent. A simple layout that works in Excel, Google Sheets or Numbers:</p>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Time</th>
+<th>Type</th>
+<th>Medicine</th>
+<th>Dose (as prescribed)</th>
+<th>Site</th>
+<th>Weight</th>
+<th>Unit</th>
+<th>Symptom</th>
+<th>Severity (1–5)</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>2026-10-20</td>
+<td>08:30</td>
+<td>Dose</td>
+<td></td>
+<td></td>
+<td>Left abdomen</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2026-10-21</td>
+<td>07:10</td>
+<td>Weight</td>
+<td></td>
+<td></td>
+<td></td>
+<td>182.4</td>
+<td>lb</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2026-10-21</td>
+<td>19:00</td>
+<td>Symptom</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Nausea</td>
+<td>2</td>
+<td>After dinner</td>
+</tr>
+</tbody></table>
+<p>Tips that save you later:</p>
+<ul>
+<li><strong>Use ISO dates (2026-10-20).</strong> They sort correctly and avoid month/day mix-ups.</li>
+<li><strong>Always fill the Unit column.</strong> &quot;82&quot; means something very different in lb and kg.</li>
+<li><strong>Copy the dose exactly as your prescription says.</strong> Do not calculate or convert. If anything about your dose is unclear, ask your pharmacist.</li>
+<li><strong>Check the sharing setting.</strong> In Google Drive, &quot;Anyone with the link&quot; means anyone on the internet with the link can open the file without signing in. For a health log, keep it on &quot;Restricted,&quot; which allows only the people you add.</li>
+<li><strong>Back it up.</strong> A spreadsheet on one laptop is one spilled coffee from gone.</li>
+</ul>
+<p>The trade-off: you are the developer now. Reminders, charts and formulas are your job, and a broken formula will quietly give you wrong trends.</p>
+<h2 id="if-you-chose-paper-a-one-week-page">If you chose paper: a one-week page</h2>
+<p>Draw this on one page per week, or print a blank table:</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Dose taken? (time, site)</th>
+<th>Weight</th>
+<th>Water</th>
+<th>Symptoms (1–5)</th>
+<th>Food notes</th>
+<th>How I felt</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Mon</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tue</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Wed</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thu</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Fri</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sat</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sun</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Questions for my prescriber:</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>Paper works best when you keep it where the medicine lives, write the date every time, and take a photo of each finished week as a backup. If you only need something for appointments, our <a href="/blog/glp-1-appointment-snapshot-printable/">one-page appointment snapshot</a> is a lighter option.</p>
+5:["$","div",null,{"className":"art-body container-wide","children":[["$","nav",null,{"className":"toc","aria-label":"On this page","children":[["$","p",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","the-6-question-decision-guide",{"children":["$","a",null,{"href":"#the-6-question-decision-guide","children":"The 6-question decision guide"}]}],["$","li","if-you-chose-a-spreadsheet-a-ready-made-layout",{"children":["$","a",null,{"href":"#if-you-chose-a-spreadsheet-a-ready-made-layout","children":"If you chose a spreadsheet: a ready-made layout"}]}],["$","li","if-you-chose-paper-a-one-week-page",{"children":["$","a",null,{"href":"#if-you-chose-paper-a-one-week-page","children":"If you chose paper: a one-week page"}]}],["$","li","if-you-chose-an-app-what-to-check-in-week-one",{"children":["$","a",null,{"href":"#if-you-chose-an-app-what-to-check-in-week-one","children":"If you chose an app: what to check in week one"}]}],["$","li","can-you-mix-them",{"children":["$","a",null,{"href":"#can-you-mix-them","children":"Can you mix them?"}]}],["$","li","common-questions",{"children":["$","a",null,{"href":"#common-questions","children":"Common questions"}]}]]}]]}],["$","div",null,{"className":"art-main","children":[[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19","$L1a"],"$L1b","$L1c","$L1d"]}],"$L1e"]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3-b83rfoml2bs.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3scnevsf2n-wh.js","async":true}]
+8:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+b:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Paper, Spreadsheet or App for GLP-1 Tracking? | GLPily"}],["$","meta","1",{"name":"description","content":"Paper, spreadsheet or app for GLP-1 tracking? Answer six quick questions to find your fit, then copy a ready-made spreadsheet layout or paper log page."}],["$","meta","2",{"name":"author","content":"GLPily Editorial Team"}],["$","meta","3",{"name":"keywords","content":"GLP-1 tracking spreadsheet or app,GLP-1 tracking spreadsheet template,GLP-1 log paper template,best way to track GLP-1 shots,GLP-1 tracker options"}],["$","link","4",{"rel":"canonical","href":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking/"}],["$","meta","5",{"property":"og:title","content":"Paper, Spreadsheet or App for GLP-1 Tracking? A 6-Question Guide"}],["$","meta","6",{"property":"og:description","content":"Paper, spreadsheet or app for GLP-1 tracking? Answer six quick questions to find your fit, then copy a ready-made spreadsheet layout or paper log page."}],["$","meta","7",{"property":"og:url","content":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking/"}],["$","meta","8",{"property":"og:image","content":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking.webp"}],["$","meta","9",{"property":"og:image:width","content":"960"}],["$","meta","10",{"property":"og:image:height","content":"640"}],["$","meta","11",{"property":"og:image:alt","content":"A signpost with three blank arrows pointing in different directions on a sunny garden path."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-10-27"}],["$","meta","14",{"property":"article:modified_time","content":"2026-10-27"}],["$","meta","15",{"property":"article:section","content":"Tracking & Progress"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Paper, Spreadsheet or App for GLP-1 Tracking? A 6-Question Guide"}],["$","meta","18",{"name":"twitter:description","content":"Paper, spreadsheet or app for GLP-1 tracking? Answer six quick questions to find your fit, then copy a ready-made spreadsheet layout or paper log page."}],["$","meta","19",{"name":"twitter:image","content":"https://glpily.com/blog/paper-spreadsheet-or-app-glp-1-tracking.webp"}],["$","link","20",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/icon-512.png","sizes":"512x512"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icon-180.png"}],["$","$L24","23",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+12:["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/40y-qcn60dbb_.js","async":true}]],[["$","$L27",null,{}],["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L28",null,{"year":2026}],["$","$L29",null,{}]]]}]
+14:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"en","className":"inter_ba811ce-module__p8rHea__variable caveat_ba01c793-module__6ynXca__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$12:props:children:1:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]
+:HL["/google-play-badge.png","image"]
+19:["$","aside",null,{"className":"pily-mid","aria-label":"From GLPily","children":[["$","img",null,{"src":"/pily/think.png","alt":"","width":195,"height":190,"loading":"lazy"}],["$","div",null,{"children":[["$","p",null,{"className":"pily-mid-title","children":"Pily’s tip"}],["$","p",null,{"children":"GLPily reminds you on shot day, remembers your injection site and draws your weight trend, so the weekly picture is always one tap away."}],["$","p",null,{"className":"pily-mid-links","children":[["$","a",null,{"href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-paper-spreadsheet-or-app-glp-1-tracking-mid","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-paper-spreadsheet-or-app-glp-1-tracking-mid","children":"Get GLPily on Google Play"}],["$","span",null,{"aria-hidden":"true","children":" · "}],["$","a",null,{"href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-paper-spreadsheet-or-app-glp-1-tracking-mid","children":"Download on the App Store"}]]}]]}]]}]
+2a:Ta65,<h2 id="if-you-chose-an-app-what-to-check-in-week-one">If you chose an app: what to check in week one</h2>
+<ul>
+<li><strong>Reminders arrive</strong> on your actual phone, with your Focus or battery settings.</li>
+<li><strong>The shot log takes seconds</strong>, including injection site if you inject.</li>
+<li><strong>You can export</strong> your data as a file, not just a screenshot.</li>
+<li><strong>The privacy label and policy</strong> make sense to you.</li>
+</ul>
+<p>GLPily is one option (we make it): it covers shot and pill logging with reminders, injection site rotation, weight, symptoms, food, water and progress photos. Tracking is free, with a paid PRO tier for extras. Our <a href="/blog/best-glp-1-tracker-apps/">best GLP-1 tracker apps roundup</a> compares it with others, and <a href="/blog/how-to-track-glp-1-shots/">how to track your GLP-1 shots</a> covers what to log for each dose, whatever tool you use.</p>
+<h2 id="can-you-mix-them">Can you mix them?</h2>
+<p>Hybrids are common and sensible:</p>
+<ul>
+<li><strong>App + paper:</strong> app for doses, reminders and weight; notebook for feelings and questions.</li>
+<li><strong>App + spreadsheet:</strong> app for daily logging; export to a spreadsheet monthly for your own analysis.</li>
+<li><strong>Paper + phone alarm:</strong> the low-tech way to get reminders.</li>
+</ul>
+<p>The one rule for hybrids: give each kind of data <strong>one home</strong>. If side effects end up half in a notebook and half in an app, neither will tell the full story. For a full list of what is worth tracking, see <a href="/blog/what-to-track-on-glp-1/">what to track on a GLP-1</a>.</p>
+<h2 id="common-questions">Common questions</h2>
+<h3 id="is-a-spreadsheet-more-private-than-an-app">Is a spreadsheet more private than an app?</h3>
+<p>It can be, if the file stays on your device or in a cloud folder with restricted sharing. A spreadsheet shared with &quot;anyone with the link&quot; can be less private than a well-run app.</p>
+<h3 id="can-i-switch-from-paper-to-an-app-later">Can I switch from paper to an app later?</h3>
+<p>Yes. You will probably start fresh in the app, so keep the paper log as your record of the earlier months and bring both to appointments.</p>
+<h3 id="what-is-the-minimum-i-should-track">What is the minimum I should track?</h3>
+<p>Dose dates (and sites, for injections), any missed doses, and side effects with dates. Weight is useful if you want to see trends, but optional.</p>
+<h3 id="how-long-should-i-try-a-system-before-switching">How long should I try a system before switching?</h3>
+<p>Two to three weeks is usually enough to know whether it fits your routine.</p>
+1a:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+1b:["$","section",null,{"className":"sources-box","aria-labelledby":"sources","children":[["$","h2",null,{"id":"sources","children":"Sources and further reading"}],["$","ol",null,{"children":[["$","li","https://pmc.ncbi.nlm.nih.gov/articles/PMC3563396/",{"children":["$","a",null,{"href":"https://pmc.ncbi.nlm.nih.gov/articles/PMC3563396/","target":"_blank","rel":"noopener","children":"American Journal of Preventive Medicine (via PMC): Using mHealth Technology to Enhance Self-Monitoring for Weight Loss, a Randomized Trial"}]}],["$","li","https://support.google.com/drive/answer/2494822",{"children":["$","a",null,{"href":"https://support.google.com/drive/answer/2494822","target":"_blank","rel":"noopener","children":"Google Drive Help: Share files from Google Drive"}]}],["$","li","https://www.ftc.gov/business-guidance/resources/mobile-health-app-developers-ftc-best-practices",{"children":["$","a",null,{"href":"https://www.ftc.gov/business-guidance/resources/mobile-health-app-developers-ftc-best-practices","target":"_blank","rel":"noopener","children":"FTC: Mobile Health App Developers, FTC Best Practices"}]}]]}]]}]
+1c:["$","p",null,{"className":"post-disclaimer","children":["This article is general education, not medical advice, and hasn’t replaced a conversation with your prescriber. Never change, skip or stop a medicine based on an article or an app. If you have severe or worrying symptoms, get medical help."," Written by the GLPily Editorial Team from the sources listed above."]}]
+1d:["$","section",null,{"className":"blog-cta","aria-labelledby":"cta-blog-paper-spreadsheet-or-app-glp-1-tracking","children":[["$","div",null,{"className":"blog-cta-copy","children":[["$","h2",null,{"id":"cta-blog-paper-spreadsheet-or-app-glp-1-tracking","children":"Make your GLP-1 journey easier to track 💚"}],["$","p",null,{"children":"Keep your shots, weight, food, water and symptom notes together with GLPily, and meet Pily, the little coach who answers from your own logs."}],["$","div",null,{"className":"blog-cta-links","children":[["$","a",null,{"className":"store-badge","href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-paper-spreadsheet-or-app-glp-1-tracking","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-paper-spreadsheet-or-app-glp-1-tracking","children":["$","img",null,{"src":"/google-play-badge.png","alt":"Get GLPily on Google Play","width":564,"height":168}]}],["$","a",null,{"className":"store-text-btn","href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-paper-spreadsheet-or-app-glp-1-tracking","children":[["$","svg",null,{"width":"16","height":"20","viewBox":"0 0 18 22","aria-hidden":"true","children":[["$","rect",null,{"x":"1.5","y":"1","width":"15","height":"20","rx":"3.5","fill":"none","stroke":"currentColor","strokeWidth":"1.8"}],["$","rect",null,{"x":"6.5","y":"17","width":"5","height":"1.6","rx":"0.8","fill":"currentColor"}]]}],["$","span",null,{"children":[["$","small",null,{"children":"Download GLPily on the"}],"App Store"]}]]}]]}]]}],["$","img",null,{"className":"blog-cta-pily","src":"/pily/wave.png","alt":"Pily, the GLPily axolotl mascot, waving","width":202,"height":155,"loading":"lazy"}],["$","ul",null,{"className":"blog-cta-feats","aria-label":"What GLPily tracks","children":[["$","li","Shot tracking",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M18 2l4 4M20 4l-9 9M14 6l4 4M12.5 7.5L4.5 15.5 3 21l5.5-1.5 8-8M6 15l3 3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Shot tracking"]}],["$","li","Water & symptoms",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.5S5.5 10 5.5 14.5a6.5 6.5 0 0 0 13 0C18.5 10 12 2.5 12 2.5z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Water & symptoms"]}],["$","li","Weight trends",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M4 20V14M9 20V9M14 20v-7M19 20V5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Weight trends"]}],["$","li","Journal",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M6 2h9l4 4v16H6zM9.5 11h6M9.5 15h6M9.5 7h3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Journal"]}],["$","li","Food scanner",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 11h18a9 9 0 0 1-18 0zM9 7c0-2 1-3 1-5M14 7c0-2 1-3 1-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Food scanner"]}],["$","li","Progress photos",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 7h4l2-3h6l2 3h4v13H3zM12 17a4 4 0 1 0 0-8 4 4 0 0 0 0 8z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Progress photos"]}]]}],["$","span",null,{"className":"cta-heart","aria-hidden":"true","children":["$","svg",null,{"width":46,"height":46,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]
+1e:["$","aside",null,{"className":"art-side","children":[["$","section",null,{"className":"side-card","children":[["$","h2",null,{"children":"Related posts"}],[["$","$L4","glpily-vs-paper-journal",{"href":"/blog/glpily-vs-paper-journal/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glpily-vs-paper-journal.webp","srcSet":"/blog/glpily-vs-paper-journal-320.webp 480w, /blog/glpily-vs-paper-journal.webp 960w","sizes":"80px","alt":"An open linen-bound notebook with a fountain pen lying beside a phone turned face down on a sunny kitchen table.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 App vs Paper Journal: An Honest GLPily Comparison"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L4","what-to-track-on-glp-1",{"href":"/blog/what-to-track-on-glp-1/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/what-to-track-on-glp-1.webp","srcSet":"/blog/what-to-track-on-glp-1-320.webp 480w, /blog/what-to-track-on-glp-1.webp 960w","sizes":"80px","alt":"A checklist notebook with a tape measure and water bottle, representing what to track.","width":960,"height":600,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"What to Track on GLP-1: A Practical Checklist"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",3," min read"]}]]}]]}],["$","$L4","how-to-track-glp-1-shots",{"href":"/blog/how-to-track-glp-1-shots/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","div",null,{"className":"cover cover-pink","aria-hidden":"true","children":[["$","svg",null,{"className":"main","viewBox":"0 0 64 64","children":["$","path",null,{"d":"M42 6l16 16M50 14L22 42M38 10l16 16M34 18L12 40l-4 16 16-4 22-22M18 34l12 12M6 58l6-6","fill":"none","stroke":"currentColor","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]}],["$","svg",null,{"className":"spark heart","style":{"top":"16%","right":"18%","width":"9%"},"viewBox":"0 0 24 24","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"2"}]}],["$","svg",null,{"className":"spark star","style":{"bottom":"18%","left":"16%","width":"7%"},"viewBox":"0 0 24 24","children":["$","path",null,{"d":"M12 2v6M12 16v6M2 12h6M16 12h6M5 5l4 4M15 15l4 4M19 5l-4 4M9 15l-4 4","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round"}]}]]}]}],["$","span",null,{"children":[["$","b",null,{"children":"How to Track Your GLP-1 Shots (a Simple System That Sticks)"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",3," min read"]}]]}]]}]]]}],["$","section",null,{"className":"side-card tips","children":[["$","h2",null,{"children":[["$","svg",null,{"width":22,"height":22,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Quick tips"]}],["$","ul",null,{"children":[["$","li","Missed a shot day recently? You want something that reminds you.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Missed a shot day recently? You want something that reminds you."]}],"$L2b","$L2c"]}]]}],"$L2d"]}]
+21:null
+17:true
+a:300
+2b:["$","li","Spreadsheets are powerful but check the sharing setting: \"Restricted\", not \"Anyone with the link\".",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Spreadsheets are powerful but check the sharing setting: \"Restricted\", not \"Anyone with the link\"."]}]
+2c:["$","li","Whatever you pick, always write the date and the units.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Whatever you pick, always write the date and the units."]}]
+2d:["$","section",null,{"className":"side-card glp-tip","children":[["$","h2",null,{"children":[["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"currentColor","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," GLPily tip"]}],["$","p",null,{"children":"GLPily reminds you on shot day, remembers your injection site and draws your weight trend, so the weekly picture is always one tap away."}]]}]
+a:C
+16:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+13:"$undefined"
+15:"$undefined"
+9:"$undefined"

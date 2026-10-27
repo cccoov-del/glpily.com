@@ -1,0 +1,281 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[46263,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Nav"]
+5:I[69925,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"FooterBody"]
+6:I[75146,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Analytics"]
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+c:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+e:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+10:I[68027,["/_next/static/chunks/3fntmmi971322.js"],"default",1]
+:HL["/_next/static/chunks/3c_ik8-42mq3-.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a85fe84266768609-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/3-b83rfoml2bs.css","style"]
+b:X
+0:{"P":null,"c":["","blog","glp-1-preop-medication-checklist",""],"q":"","i":false,"f":[[["",{"children":["(site)",{"children":["blog",{"children":[["slug","glp-1-preop-medication-checklist","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"inter_ba811ce-module__p8rHea__variable caveat_ba01c793-module__6ynXca__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/40y-qcn60dbb_.js","async":true,"nonce":"$undefined"}]],[["$","$L4",null,{}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L5",null,{"year":2026}],["$","$L6",null,{}]]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3-b83rfoml2bs.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3scnevsf2n-wh.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,null]},null,false,"$b"]},null,false,"$b"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9Q2cl1A9kptHbLYnte8jc"}
+11:I[90031,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],"ViewPing"]
+13:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],""]
+:HL["/blog/glp-1-preop-medication-checklist.webp","image",{"imageSrcSet":"/blog/glp-1-preop-medication-checklist-320.webp 480w, /blog/glp-1-preop-medication-checklist.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+b:C
+12:T579,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"GLP-1 Pre-Op Checklist: A Printable Medication Note for Surgery","description":"A free printable GLP-1 pre-op medication note: product, last dose, recent changes, GI symptoms and the team's final plan, ready to fill in.","url":"https://glpily.com/blog/glp-1-preop-medication-checklist/","mainEntityOfPage":"https://glpily.com/blog/glp-1-preop-medication-checklist/","image":"https://glpily.com/blog/glp-1-preop-medication-checklist.webp","datePublished":"2026-10-27","dateModified":"2026-10-27","author":{"@type":"Organization","name":"GLPily Editorial Team","url":"https://glpily.com"},"publisher":{"@type":"Organization","name":"GLPily","logo":{"@type":"ImageObject","url":"https://glpily.com/icon-512.png"}},"articleSection":"Guides","keywords":"GLP-1 pre-op checklist, pre-op medication list template, GLP-1 surgery checklist, Ozempic before surgery checklist, pre-anesthesia medication form","inLanguage":"en-US"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://glpily.com/blog/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://glpily.com/blog/category/guides/"},{"@type":"ListItem","position":3,"name":"GLP-1 Pre-Op Checklist: A Printable Medication Note for Surgery","item":"https://glpily.com/blog/glp-1-preop-medication-checklist/"}]}]}7:["$","main",null,{"className":"blog","children":[["$","$L11",null,{"slug":"glp-1-preop-medication-checklist"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}],["$","article",null,{"children":[["$","header",null,{"className":"art-hero container-wide","children":[["$","div",null,{"className":"art-hero-copy","children":[["$","ol",null,{"className":"crumbs","children":[["$","li",null,{"children":["$","$L13",null,{"href":"/blog/","children":"Blog"}]}],["$","li",null,{"children":["$","$L13",null,{"href":"/blog/category/guides/","children":"Guides"}]}],["$","li",null,{"aria-current":"page","children":"GLP-1 Pre-Op Checklist: A Printable Medication Note for Surgery"}]]}],["$","div",null,{"className":"art-meta-top","children":[["$","span",null,{"className":"pill-tag mint","children":"Guides"}],null,["$","span",null,{"className":"read","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}],["$","h1",null,{"children":"GLP-1 Pre-Op Checklist: A Printable Medication Note for Surgery"}],["$","p",null,{"className":"lead","children":"A copy-and-fill pre-op note that puts every GLP-1 detail your surgical and anesthesia team will ask about on one page, plus a box for the plan they give you."}],["$","p",null,{"className":"byline","children":[["$","span",null,{"className":"avatar-dot","aria-hidden":"true","children":"♡"}],["$","span",null,{"children":[["$","b",null,{"children":["By ","GLPily Editorial Team"]}],["$","br",null,{}],["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],null]}]]}]]}],["$","div",null,{"className":"art-hero-img","children":[["$","span",null,{"className":"script","aria-hidden":"true","children":"One page, zero guessing ♡"}],["$","img",null,{"className":"post-img","src":"/blog/glp-1-preop-medication-checklist.webp","srcSet":"/blog/glp-1-preop-medication-checklist-320.webp 480w, /blog/glp-1-preop-medication-checklist.webp 960w","sizes":"(max-width: 960px) 100vw, 500px","alt":"A clipboard with a blank printed form, a mint-green pen and a pair of reading glasses on a light wooden table.","width":960,"height":640,"loading":"eager","fetchPriority":"high","decoding":"async"}]]}]]}],["$","div",null,{"className":"art-body container-wide","children":[["$","nav",null,{"className":"toc","aria-label":"On this page","children":["$L14","$L15"]}],"$L16","$L17"]}]]}]]}]
+14:["$","p",null,{"children":"On this page"}]
+15:["$","ol",null,{"children":[["$","li","why-a-written-pre-op-note-beats-remembering",{"children":["$","a",null,{"href":"#why-a-written-pre-op-note-beats-remembering","children":"Why a written pre-op note beats remembering"}]}],["$","li","how-to-use-this-template",{"children":["$","a",null,{"href":"#how-to-use-this-template","children":"How to use this template"}]}],["$","li","the-printable-glp-1-pre-op-medication-note",{"children":["$","a",null,{"href":"#the-printable-glp-1-pre-op-medication-note","children":"The printable GLP-1 pre-op medication note"}]}],["$","li","tips-for-filling-it-in-accurately",{"children":["$","a",null,{"href":"#tips-for-filling-it-in-accurately","children":"Tips for filling it in accurately"}]}],["$","li","what-this-template-is-not",{"children":["$","a",null,{"href":"#what-this-template-is-not","children":"What this template is not"}]}],["$","li","common-questions",{"children":["$","a",null,{"href":"#common-questions","children":"Common questions"}]}]]}]
+18:T1955,<p>A <strong>GLP-1 pre-op checklist</strong> is a single page that tells your surgical and anesthesia team exactly what GLP-1 medicine you take, when your last dose was, whether anything changed recently and how your stomach has been. Those are the facts current guidance uses to decide whether you need a special plan. Below is a free fill-in template you can copy, print or paste into your phone notes.</p>
+<p>The template records facts. It doesn&#39;t tell you whether to hold or keep taking your medicine. That decision belongs to your care team. (Why the team cares at all is covered in <a href="/blog/glp-1-before-surgery-anesthesia-team/">what your anesthesia team needs to know</a>.)</p>
+<h2 id="why-a-written-pre-op-note-beats-remembering">Why a written pre-op note beats remembering</h2>
+<p>A typical pre-op week includes a call from the surgeon&#39;s office, a call or visit from pre-admission testing, maybe a message from anesthesia, and then a nurse on the morning itself asking the same questions again. Weekly injections are easy to forget in that rush. You don&#39;t take them every day, and they live in the fridge, not the pill organizer.</p>
+<p>GLP-1 labels now include a warning that these medicines delay stomach emptying, and that rare cases of pulmonary aspiration have been reported under general anesthesia or deep sedation. The labels tell prescribers to have patients <strong>tell their healthcare providers before any planned surgery or procedure.</strong> The 2024 multi-society guidance (ASA, AGA, ASMBS, ISPCOP, SAGES) then sorts people by risk using four things: <strong>where you are in dose escalation, your dose, your current GI symptoms, and other conditions that slow the stomach.</strong> The template asks for exactly those.</p>
+<h2 id="how-to-use-this-template">How to use this template</h2>
+<ol>
+<li><strong>Copy it</strong> into a document, a notes app or onto paper.</li>
+<li><strong>Fill in Parts 1–4</strong> the day your surgery or procedure is booked.</li>
+<li><strong>Update Part 2</strong> if you take another dose before the procedure.</li>
+<li><strong>Fill in Part 5</strong> when the team gives you the plan, using their words.</li>
+<li><strong>Bring it</strong> (on paper or on your phone) to every pre-op visit and on the day.</li>
+</ol>
+<h2 id="the-printable-glp-1-pre-op-medication-note">The printable GLP-1 pre-op medication note</h2>
+<p><strong>Part 1: About me and the procedure</strong></p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Fill in</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Name / date of birth</td>
+<td></td>
+</tr>
+<tr>
+<td>Procedure and date</td>
+<td></td>
+</tr>
+<tr>
+<td>Surgeon or proceduralist</td>
+<td></td>
+</tr>
+<tr>
+<td>Type of anesthesia, if known (general / sedation / local)</td>
+<td></td>
+</tr>
+<tr>
+<td>Prescriber of my GLP-1 (name, phone)</td>
+<td></td>
+</tr>
+<tr>
+<td>Pharmacy (name, phone)</td>
+<td></td>
+</tr>
+</tbody></table>
+<p><strong>Part 2: My GLP-1 medicine</strong></p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Fill in</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Brand name, exactly as on the label (e.g., Wegovy, Ozempic, Mounjaro, Zepbound, Rybelsus, Foundayo, Saxenda)</td>
+<td></td>
+</tr>
+<tr>
+<td>Active ingredient (semaglutide, tirzepatide, liraglutide, orforglipron…)</td>
+<td></td>
+</tr>
+<tr>
+<td>Form: weekly injection / daily injection / daily tablet</td>
+<td></td>
+</tr>
+<tr>
+<td>Current strength (from the pharmacy label)</td>
+<td></td>
+</tr>
+<tr>
+<td>Brand-name or compounded? (if compounded: pharmacy name and concentration on the vial)</td>
+<td></td>
+</tr>
+<tr>
+<td>Why I take it (diabetes, weight management, sleep apnea, heart risk…)</td>
+<td></td>
+</tr>
+<tr>
+<td>My usual dose day / time</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Date and time of my most recent dose</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Date I started this medicine</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Date of my last strength increase</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Any missed doses or breaks in the past month?</td>
+<td></td>
+</tr>
+</tbody></table>
+<p><strong>Part 3: How my stomach has been (past 2 weeks)</strong></p>
+<p>Tick what applies and add a word or two:</p>
+<table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>Yes / No</th>
+<th>When, how often</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nausea</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vomiting</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reflux or heartburn</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bloating or abdominal pain</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Constipation</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Feeling full for hours after a small meal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Trouble keeping food or fluids down</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>The 2025 SPAQI consensus treats <strong>severe nausea, vomiting or inability to tolerate food</strong> as &quot;significant&quot; symptoms that should be dealt with before elective anesthesia. It does not count ordinary fullness or early satiety as significant. Write down what you actually feel and let the team judge.</p>
+<p><strong>Part 4: Everything else the team needs</strong></p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Fill in</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Other diabetes medicines (insulin, sulfonylureas, SGLT2 inhibitors, metformin…), with doses</td>
+<td></td>
+</tr>
+<tr>
+<td>Blood thinners or antiplatelet medicines</td>
+<td></td>
+</tr>
+<tr>
+<td>All other prescriptions</td>
+<td></td>
+</tr>
+<tr>
+<td>Over-the-counter medicines, vitamins, supplements</td>
+<td></td>
+</tr>
+<tr>
+<td>Allergies and what happens</td>
+<td></td>
+</tr>
+<tr>
+<td>Conditions that slow the stomach (gastroparesis, Parkinson&#39;s disease, previous stomach surgery)</td>
+<td></td>
+</tr>
+<tr>
+<td>Any past problems with anesthesia (me or close family)</td>
+<td></td>
+</tr>
+</tbody></table>
+<p><strong>Part 5: The plan my team gave me</strong> <em>(write it word for word)</em></p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Fill in</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Who gave the instructions (name, role, date)</td>
+<td></td>
+</tr>
+<tr>
+<td>What to do with my GLP-1 before the procedure</td>
+<td></td>
+</tr>
+<tr>
+<td>What to eat and drink, and from when</td>
+<td></td>
+</tr>
+<tr>
+<td>What to do with my other diabetes medicines</td>
+<td></td>
+</tr>
+<tr>
+<td>Who to call if I get nausea or vomiting beforehand</td>
+<td></td>
+</tr>
+<tr>
+<td>When and how to restart afterwards</td>
+<td></td>
+</tr>
+<tr>
+<td>Does my prescriber agree? (yes / waiting / not asked)</td>
+<td></td>
+</tr>
+</tbody></table>
+16:["$","div",null,{"className":"art-main","children":[[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19","$L1a"],"$L1b","$L1c","$L1d"]}]
+17:["$","aside",null,{"className":"art-side","children":[["$","section",null,{"className":"side-card","children":[["$","h2",null,{"children":"Related posts"}],[["$","$L13","glp-1-before-surgery-anesthesia-team",{"href":"/blog/glp-1-before-surgery-anesthesia-team/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glp-1-before-surgery-anesthesia-team.webp","srcSet":"/blog/glp-1-before-surgery-anesthesia-team-320.webp 480w, /blog/glp-1-before-surgery-anesthesia-team.webp 960w","sizes":"80px","alt":"A calm pre-operative bay with a folded hospital gown, a clipboard and soft morning light through a window.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 Before Surgery: What Your Anesthesia Team Needs to Know"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L13","glp-1-before-colonoscopy-endoscopy",{"href":"/blog/glp-1-before-colonoscopy-endoscopy/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glp-1-before-colonoscopy-endoscopy.webp","srcSet":"/blog/glp-1-before-colonoscopy-endoscopy-320.webp 480w, /blog/glp-1-before-colonoscopy-endoscopy.webp 960w","sizes":"80px","alt":"A kitchen counter with a glass of clear broth, a bowl of yellow gelatin and a jug of clear apple juice in soft daylight.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 Before a Colonoscopy or Endoscopy: Prep and Questions"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L13","glp-1-urgent-care-medication-list",{"href":"/blog/glp-1-urgent-care-medication-list/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glp-1-urgent-care-medication-list.webp","srcSet":"/blog/glp-1-urgent-care-medication-list-320.webp 480w, /blog/glp-1-urgent-care-medication-list.webp 960w","sizes":"80px","alt":"An open leather wallet with a small folded paper card tucked beside a health insurance card, next to a smartphone on a café table.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 Medication List for Urgent Care: A Wallet and Phone Guide"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}]]]}],["$","section",null,{"className":"side-card tips","children":[["$","h2",null,{"children":[["$","svg",null,{"width":22,"height":22,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Quick tips"]}],["$","ul",null,{"children":[["$","li","Copy product names and strengths from the pharmacy label, not from memory.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Copy product names and strengths from the pharmacy label, not from memory."]}],"$L1e","$L1f"]}]]}],"$L20"]}]
+:HL["/google-play-badge.png","image"]
+19:["$","aside",null,{"className":"pily-mid","aria-label":"From GLPily","children":[["$","img",null,{"src":"/pily/think.png","alt":"","width":195,"height":190,"loading":"lazy"}],["$","div",null,{"children":[["$","p",null,{"className":"pily-mid-title","children":"Pily’s tip"}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}],["$","p",null,{"className":"pily-mid-links","children":[["$","a",null,{"href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-preop-medication-checklist-mid","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-preop-medication-checklist-mid","children":"Get GLPily on Google Play"}],["$","span",null,{"aria-hidden":"true","children":" · "}],["$","a",null,{"href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-preop-medication-checklist-mid","children":"Download on the App Store"}]]}]]}]]}]
+21:Tc7f,<h2 id="tips-for-filling-it-in-accurately">Tips for filling it in accurately</h2>
+<ul>
+<li><strong>Read the label, not your memory.</strong> &quot;The blue one, the middle dose&quot; doesn&#39;t help anyone. The pharmacy label has the product name, strength and the date it was filled.</li>
+<li><strong>Be specific about compounded products.</strong> Compounded semaglutide or tirzepatide isn&#39;t the same thing as an FDA-approved brand. Write down the pharmacy and the concentration printed on the vial. Our post on <a href="/blog/compounded-glp-1-safety-red-flags/">compounded GLP-1 red flags</a> explains why this matters.</li>
+<li><strong>Don&#39;t record a self-made change as if it were the plan.</strong> If you decided on your own to skip a dose, write &quot;I skipped my dose on [date]&quot; in Part 2. Don&#39;t put it in Part 5.</li>
+<li><strong>Update the &quot;most recent dose&quot; line.</strong> If your procedure is a week away, you may take another dose before then, unless the team tells you otherwise.</li>
+<li><strong>One note per procedure.</strong> A <a href="/blog/glp-1-before-colonoscopy-endoscopy/">colonoscopy or endoscopy</a> may come with different instructions than a knee replacement.</li>
+</ul>
+<p>If you log your shots in GLPily, the shot log already has most of Part 2: dose dates, strength changes and missed weeks. Your symptom entries can fill in Part 3.</p>
+<h2 id="what-this-template-is-not">What this template is not</h2>
+<p>It doesn&#39;t tell you whether to stop your medicine, how long to fast or how to adjust insulin. Guidance on those questions changed between 2023 and 2025, and hospitals still use their own protocols. The template gives the team what it needs and gives you a record of what they decided.</p>
+<p>For non-surgical emergencies, keep a shorter version in your wallet. See our <a href="/blog/glp-1-urgent-care-medication-list/">urgent care medication list</a>.</p>
+<h2 id="common-questions">Common questions</h2>
+<h3 id="should-i-bring-this-to-a-dental-sedation-or-a-minor-procedure-too">Should I bring this to a dental sedation or a minor procedure too?</h3>
+<p>Yes, if sedation is involved. The FDA label warning covers general anesthesia <strong>and deep sedation</strong>, so any team putting you under should get the same facts.</p>
+<h3 id="what-if-i-don-39-t-know-the-exact-date-of-my-last-dose">What if I don&#39;t know the exact date of my last dose?</h3>
+<p>Check your pharmacy fill history, your pen&#39;s dose counter or your shot log. If you still don&#39;t know, write &quot;unsure, approximately [date].&quot; An honest &quot;unsure&quot; is better than a precise guess.</p>
+<h3 id="can-i-just-show-my-pharmacy-app-instead">Can I just show my pharmacy app instead?</h3>
+<p>It helps, but pharmacy apps show what was dispensed, not when you took it or how your stomach has been. Parts 2, 3 and 5 are the bits only you can provide.</p>
+<h3 id="who-fills-in-part-5-if-my-surgeon-and-prescriber-disagree">Who fills in Part 5 if my surgeon and prescriber disagree?</h3>
+<p>Write down both instructions and tell each team what the other said. Ask them to agree on one plan before the procedure. Don&#39;t pick one yourself.</p>
+1a:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$21"}}]
+1b:["$","section",null,{"className":"sources-box","aria-labelledby":"sources","children":[["$","h2",null,{"id":"sources","children":"Sources and further reading"}],["$","ol",null,{"children":[["$","li","https://asahq.org/about-asa/newsroom/news-releases/2024/10/new-multi-society-glp-1-guidance",{"children":["$","a",null,{"href":"https://asahq.org/about-asa/newsroom/news-releases/2024/10/new-multi-society-glp-1-guidance","target":"_blank","rel":"noopener","children":"American Society of Anesthesiologists: New multi-society clinical practice guidance on GLP-1s (Oct 2024)"}]}],["$","li","https://pmc.ncbi.nlm.nih.gov/articles/PMC12597468/",{"children":["$","a",null,{"href":"https://pmc.ncbi.nlm.nih.gov/articles/PMC12597468/","target":"_blank","rel":"noopener","children":"Oprea AD et al., SPAQI multidisciplinary consensus on perioperative GLP-1 receptor agonists, Br J Anaesth 2025 (PMC)"}]}],["$","li","https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",{"children":["$","a",null,{"href":"https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b","target":"_blank","rel":"noopener","children":"DailyMed: Zepbound prescribing information, Warnings and Precautions"}]}],["$","li","https://www.fda.gov/consumers/consumer-updates/create-and-keep-medication-list-your-health",{"children":["$","a",null,{"href":"https://www.fda.gov/consumers/consumer-updates/create-and-keep-medication-list-your-health","target":"_blank","rel":"noopener","children":"FDA: Create and keep a medication list for your health"}]}]]}]]}]
+22:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1c:["$","p",null,{"className":"post-disclaimer","children":["GLPily is a tracking companion, not a medical device, and doesn’t provide medical advice."," Written by the GLPily Editorial Team from the sources listed above."]}]
+1d:["$","section",null,{"className":"blog-cta","aria-labelledby":"cta-blog-glp-1-preop-medication-checklist","children":[["$","div",null,{"className":"blog-cta-copy","children":[["$","h2",null,{"id":"cta-blog-glp-1-preop-medication-checklist","children":"Make your GLP-1 journey easier to track 💚"}],["$","p",null,{"children":"Keep your shots, weight, food, water and symptom notes together with GLPily, and meet Pily, the little coach who answers from your own logs."}],["$","div",null,{"className":"blog-cta-links","children":[["$","a",null,{"className":"store-badge","href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-glp-1-preop-medication-checklist","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-glp-1-preop-medication-checklist","children":["$","img",null,{"src":"/google-play-badge.png","alt":"Get GLPily on Google Play","width":564,"height":168}]}],["$","a",null,{"className":"store-text-btn","href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-glp-1-preop-medication-checklist","children":[["$","svg",null,{"width":"16","height":"20","viewBox":"0 0 18 22","aria-hidden":"true","children":[["$","rect",null,{"x":"1.5","y":"1","width":"15","height":"20","rx":"3.5","fill":"none","stroke":"currentColor","strokeWidth":"1.8"}],["$","rect",null,{"x":"6.5","y":"17","width":"5","height":"1.6","rx":"0.8","fill":"currentColor"}]]}],["$","span",null,{"children":[["$","small",null,{"children":"Download GLPily on the"}],"App Store"]}]]}]]}]]}],["$","img",null,{"className":"blog-cta-pily","src":"/pily/wave.png","alt":"Pily, the GLPily axolotl mascot, waving","width":202,"height":155,"loading":"lazy"}],["$","ul",null,{"className":"blog-cta-feats","aria-label":"What GLPily tracks","children":[["$","li","Shot tracking",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M18 2l4 4M20 4l-9 9M14 6l4 4M12.5 7.5L4.5 15.5 3 21l5.5-1.5 8-8M6 15l3 3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Shot tracking"]}],["$","li","Water & symptoms",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.5S5.5 10 5.5 14.5a6.5 6.5 0 0 0 13 0C18.5 10 12 2.5 12 2.5z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Water & symptoms"]}],["$","li","Weight trends",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M4 20V14M9 20V9M14 20v-7M19 20V5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Weight trends"]}],["$","li","Journal",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M6 2h9l4 4v16H6zM9.5 11h6M9.5 15h6M9.5 7h3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Journal"]}],["$","li","Food scanner",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 11h18a9 9 0 0 1-18 0zM9 7c0-2 1-3 1-5M14 7c0-2 1-3 1-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Food scanner"]}],["$","li","Progress photos",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 7h4l2-3h6l2 3h4v13H3zM12 17a4 4 0 1 0 0-8 4 4 0 0 0 0 8z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Progress photos"]}]]}],["$","span",null,{"className":"cta-heart","aria-hidden":"true","children":["$","svg",null,{"width":46,"height":46,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]
+1e:["$","li","Fill in Part 2 within a day of each pre-op call so dates are fresh.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Fill in Part 2 within a day of each pre-op call so dates are fresh."]}]
+1f:["$","li","Leave Part 5 blank until the team tells you the plan, then write it down word for word.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Leave Part 5 blank until the team tells you the plan, then write it down word for word."]}]
+20:["$","section",null,{"className":"side-card glp-tip","children":[["$","h2",null,{"children":[["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"currentColor","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," GLPily tip"]}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
+a:null
+f:[["$","title","0",{"children":"GLP-1 Pre-Op Checklist (Printable) | GLPily"}],["$","meta","1",{"name":"description","content":"A free printable GLP-1 pre-op medication note: product, last dose, recent changes, GI symptoms and the team's final plan, ready to fill in."}],["$","meta","2",{"name":"author","content":"GLPily Editorial Team"}],["$","meta","3",{"name":"keywords","content":"GLP-1 pre-op checklist,pre-op medication list template,GLP-1 surgery checklist,Ozempic before surgery checklist,pre-anesthesia medication form"}],["$","link","4",{"rel":"canonical","href":"https://glpily.com/blog/glp-1-preop-medication-checklist/"}],["$","meta","5",{"property":"og:title","content":"GLP-1 Pre-Op Checklist: A Printable Medication Note for Surgery"}],["$","meta","6",{"property":"og:description","content":"A free printable GLP-1 pre-op medication note: product, last dose, recent changes, GI symptoms and the team's final plan, ready to fill in."}],["$","meta","7",{"property":"og:url","content":"https://glpily.com/blog/glp-1-preop-medication-checklist/"}],["$","meta","8",{"property":"og:image","content":"https://glpily.com/blog/glp-1-preop-medication-checklist.webp"}],["$","meta","9",{"property":"og:image:width","content":"960"}],["$","meta","10",{"property":"og:image:height","content":"640"}],["$","meta","11",{"property":"og:image:alt","content":"A clipboard with a blank printed form, a mint-green pen and a pair of reading glasses on a light wooden table."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-10-27"}],["$","meta","14",{"property":"article:modified_time","content":"2026-10-27"}],["$","meta","15",{"property":"article:section","content":"Guides"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"GLP-1 Pre-Op Checklist: A Printable Medication Note for Surgery"}],["$","meta","18",{"name":"twitter:description","content":"A free printable GLP-1 pre-op medication note: product, last dose, recent changes, GI symptoms and the team's final plan, ready to fill in."}],["$","meta","19",{"name":"twitter:image","content":"https://glpily.com/blog/glp-1-preop-medication-checklist.webp"}],["$","link","20",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/icon-512.png","sizes":"512x512"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icon-180.png"}],["$","$L22","23",{}]]

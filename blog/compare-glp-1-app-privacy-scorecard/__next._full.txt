@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[46263,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Nav"]
+5:I[69925,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"FooterBody"]
+6:I[75146,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js"],"Analytics"]
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+c:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+e:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+10:I[68027,["/_next/static/chunks/3fntmmi971322.js"],"default",1]
+:HL["/_next/static/chunks/3c_ik8-42mq3-.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a85fe84266768609-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/3-b83rfoml2bs.css","style"]
+b:X
+0:{"P":null,"c":["","blog","compare-glp-1-app-privacy-scorecard",""],"q":"","i":false,"f":[[["",{"children":["(site)",{"children":["blog",{"children":[["slug","compare-glp-1-app-privacy-scorecard","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"inter_ba811ce-module__p8rHea__variable caveat_ba01c793-module__6ynXca__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/40y-qcn60dbb_.js","async":true,"nonce":"$undefined"}]],[["$","$L4",null,{}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L5",null,{"year":2026}],["$","$L6",null,{}]]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3-b83rfoml2bs.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3scnevsf2n-wh.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,null]},null,false,"$b"]},null,false,"$b"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c_ik8-42mq3-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9Q2cl1A9kptHbLYnte8jc"}
+11:I[90031,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],"ViewPing"]
+13:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/40y-qcn60dbb_.js","/_next/static/chunks/3scnevsf2n-wh.js"],""]
+:HL["/blog/compare-glp-1-app-privacy-scorecard.webp","image",{"imageSrcSet":"/blog/compare-glp-1-app-privacy-scorecard-320.webp 480w, /blog/compare-glp-1-app-privacy-scorecard.webp 960w","imageSizes":"(max-width: 960px) 100vw, 500px","fetchPriority":"high"}]
+b:C
+12:T596,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"Compare GLP-1 App Privacy in 5 Minutes: A Simple Scorecard","description":"Compare GLP-1 app privacy in five minutes without the legal reading: check the store label, search the policy for 8 key words, fill in a simple scorecard.","url":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard/","mainEntityOfPage":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard/","image":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard.webp","datePublished":"2026-10-27","dateModified":"2026-10-27","author":{"@type":"Organization","name":"GLPily Editorial Team","url":"https://glpily.com"},"publisher":{"@type":"Organization","name":"GLPily","logo":{"@type":"ImageObject","url":"https://glpily.com/icon-512.png"}},"articleSection":"Guides","keywords":"compare GLP-1 app privacy, health app privacy scorecard, how to check app privacy quickly, privacy policy keywords to search, GLP-1 tracker privacy comparison","inLanguage":"en-US"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://glpily.com/blog/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://glpily.com/blog/category/guides/"},{"@type":"ListItem","position":3,"name":"Compare GLP-1 App Privacy in 5 Minutes: A Simple Scorecard","item":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard/"}]}]}7:["$","main",null,{"className":"blog","children":[["$","$L11",null,{"slug":"compare-glp-1-app-privacy-scorecard"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}],["$","article",null,{"children":[["$","header",null,{"className":"art-hero container-wide","children":[["$","div",null,{"className":"art-hero-copy","children":[["$","ol",null,{"className":"crumbs","children":[["$","li",null,{"children":["$","$L13",null,{"href":"/blog/","children":"Blog"}]}],["$","li",null,{"children":["$","$L13",null,{"href":"/blog/category/guides/","children":"Guides"}]}],["$","li",null,{"aria-current":"page","children":"Compare GLP-1 App Privacy in 5 Minutes: A Simple Scorecard"}]]}],["$","div",null,{"className":"art-meta-top","children":[["$","span",null,{"className":"pill-tag mint","children":"Guides"}],null,["$","span",null,{"className":"read","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}],["$","h1",null,{"children":"Compare GLP-1 App Privacy in 5 Minutes: A Simple Scorecard"}],["$","p",null,{"className":"lead","children":"You do not need a law degree or a free afternoon. A timer, two store pages and the find-in-page button are enough to compare two GLP-1 apps' privacy side by side."}],["$","p",null,{"className":"byline","children":[["$","span",null,{"className":"avatar-dot","aria-hidden":"true","children":"♡"}],["$","span",null,{"children":[["$","b",null,{"children":["By ","GLPily Editorial Team"]}],["$","br",null,{}],["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],null]}]]}]]}],["$","div",null,{"className":"art-hero-img","children":[["$","span",null,{"className":"script","aria-hidden":"true","children":"\"Unclear\" is an answer too ♡"}],["$","img",null,{"className":"post-img","src":"/blog/compare-glp-1-app-privacy-scorecard.webp","srcSet":"/blog/compare-glp-1-app-privacy-scorecard-320.webp 480w, /blog/compare-glp-1-app-privacy-scorecard.webp 960w","sizes":"(max-width: 960px) 100vw, 500px","alt":"A kitchen timer, a pencil and a small clipboard with a blank grid on a bright yellow table.","width":960,"height":640,"loading":"eager","fetchPriority":"high","decoding":"async"}]]}]]}],["$","div",null,{"className":"art-body container-wide","children":["$L14","$L15","$L16"]}]]}]]}]
+14:["$","nav",null,{"className":"toc","aria-label":"On this page","children":[["$","p",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","what-you-need",{"children":["$","a",null,{"href":"#what-you-need","children":"What you need"}]}],["$","li","minute-1-the-store-label",{"children":["$","a",null,{"href":"#minute-1-the-store-label","children":"Minute 1: The store label"}]}],["$","li","minutes-2-to-4-the-eight-word-search",{"children":["$","a",null,{"href":"#minutes-2-to-4-the-eight-word-search","children":"Minutes 2 to 4: The eight-word search"}]}],["$","li","minute-5-fill-in-the-scorecard",{"children":["$","a",null,{"href":"#minute-5-fill-in-the-scorecard","children":"Minute 5: Fill in the scorecard"}]}],["$","li","how-should-you-read-the-results",{"children":["$","a",null,{"href":"#how-should-you-read-the-results","children":"How should you read the results?"}]}],["$","li","what-does-this-5-minute-method-miss",{"children":["$","a",null,{"href":"#what-does-this-5-minute-method-miss","children":"What does this 5-minute method miss?"}]}],["$","li","try-it-on-us",{"children":["$","a",null,{"href":"#try-it-on-us","children":"Try it on us"}]}],["$","li","re-run-it-when-apps-change",{"children":["$","a",null,{"href":"#re-run-it-when-apps-change","children":"Re-run it when apps change"}]}],["$","li","common-questions",{"children":["$","a",null,{"href":"#common-questions","children":"Common questions"}]}]]}]]}]
+17:T1750,<p><strong>How do you compare two GLP-1 apps&#39; privacy quickly?</strong> Spend one minute on each app&#39;s store privacy label, then three minutes searching each privacy policy for eight key words (sell, advertis, train, share, retain, delete, export, and the names of AI or analytics companies). Mark each row clear, unclear or concerning on the scorecard below. That is enough to spot the meaningful differences without reading every paragraph.</p>
+<p>This is not a legal audit, and it will not award anyone a &quot;safe&quot; badge. It is a fast way to see which app gives you straight answers about the data you are about to hand over: weight, doses, symptoms, meals and maybe photos.</p>
+<h2 id="what-you-need">What you need</h2>
+<ul>
+<li>Two (or three) apps you are deciding between.</li>
+<li>Their App Store or Google Play pages.</li>
+<li>Their privacy policies, open in a browser.</li>
+<li>The <strong>find in page</strong> function (Ctrl+F or Cmd+F on a computer; in phone browsers it is usually in the share or menu button).</li>
+<li>A timer, if you enjoy a challenge.</li>
+</ul>
+<h2 id="minute-1-the-store-label">Minute 1: The store label</h2>
+<p>Open each app&#39;s store page and find the privacy section.</p>
+<p><strong>On the App Store</strong>, scroll to <strong>App Privacy</strong>. Look for:</p>
+<ul>
+<li>Is there a <strong>Data Used to Track You</strong> box? Apple defines tracking as linking data from the app with other companies&#39; data for targeted advertising or ad measurement, or sharing it with a data broker.</li>
+<li>Which purposes appear next to <strong>Health &amp; Fitness</strong> under <strong>Data Linked to You</strong>?</li>
+</ul>
+<p><strong>On Google Play</strong>, tap <strong>Data safety → See details</strong>. Look for:</p>
+<ul>
+<li>What is listed under <strong>Data shared</strong>.</li>
+<li>Which purposes appear next to <strong>Health and fitness</strong> under <strong>Data collected</strong>, and whether it is marked optional.</li>
+<li>Whether <strong>Security practices</strong> mention encryption in transit and a way to request deletion.</li>
+</ul>
+<p>Remember that both labels are written by the developer. Apple&#39;s label says outright that the information has not been verified by Apple. For a deeper walk-through, see our guides to <a href="/blog/apple-app-privacy-label-health-app/">Apple&#39;s App Privacy labels</a> and <a href="/blog/google-play-data-safety-health-app/">Google Play Data safety</a>.</p>
+<h2 id="minutes-2-to-4-the-eight-word-search">Minutes 2 to 4: The eight-word search</h2>
+<p>Open the privacy policy and search for each term. You are not reading the whole document, just the sentences around each hit.</p>
+<table>
+<thead>
+<tr>
+<th>Search for</th>
+<th>What a clear answer looks like</th>
+<th>What to note</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>sell</strong></td>
+<td>&quot;We do not sell personal data.&quot;</td>
+<td>Missing or hedged (&quot;we may sell…&quot;)</td>
+</tr>
+<tr>
+<td><strong>advertis</strong> (catches advertising, advertisers)</td>
+<td>&quot;We do not use your health data for advertising.&quot;</td>
+<td>Health or photo data used for ads</td>
+</tr>
+<tr>
+<td><strong>train</strong></td>
+<td>&quot;Your data is not used to train AI models.&quot;</td>
+<td>No mention, but the app has AI features</td>
+</tr>
+<tr>
+<td><strong>share</strong></td>
+<td>A list of named companies and what each receives</td>
+<td>Only &quot;trusted partners&quot; with no names</td>
+</tr>
+<tr>
+<td><strong>retain</strong> or <strong>retention</strong></td>
+<td>Real time frames (&quot;while your account exists,&quot; &quot;30 days&quot;)</td>
+<td>&quot;As long as necessary&quot; and nothing else</td>
+</tr>
+<tr>
+<td><strong>delete</strong></td>
+<td>A menu path or email address</td>
+<td>Only &quot;you may have rights&quot;</td>
+</tr>
+<tr>
+<td><strong>export</strong></td>
+<td>How to download your data and in what format</td>
+<td>Nothing at all</td>
+</tr>
+<tr>
+<td><strong>AI</strong> or the provider&#39;s name</td>
+<td>Which features send data to which provider</td>
+<td>AI features not mentioned anywhere</td>
+</tr>
+</tbody></table>
+<p>Why these words? Because they map to the questions that matter most for health data. The FTC&#39;s case against GoodRx in 2023, for example, centered on prescription and health information shared with advertising platforms. &quot;Advertis&quot; is doing a lot of work in that search.</p>
+<h2 id="minute-5-fill-in-the-scorecard">Minute 5: Fill in the scorecard</h2>
+<p>Use three marks only:</p>
+<ul>
+<li><strong>✓ Clear:</strong> the policy or label answers the question specifically.</li>
+<li><strong>? Unclear:</strong> you could not find it, or the wording is vague.</li>
+<li><strong>✗ Concerning:</strong> it answers, and you do not like the answer.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>App A</th>
+<th>App B</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Any &quot;Data Used to Track You&quot; (iPhone) or health data listed for advertising?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Does the policy say it does not sell personal data?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Is health data kept out of advertising?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Are photos explained (storage, AI use, deletion)?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Is AI processing explained, including training?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Are other companies named?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Is there a real retention time frame?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Is there a clear export option?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Is there a clear delete-account path?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Is there a privacy contact?</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Totals: ✓ / ? / ✗</strong></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>Do not add the marks into a single score. One ✗ on advertising can matter more to you than three ✓s elsewhere. Look at the pattern.</p>
+15:["$","div",null,{"className":"art-main","children":[[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18","$L19"],"$L1a","$L1b","$L1c"]}]
+16:["$","aside",null,{"className":"art-side","children":[["$","section",null,{"className":"side-card","children":[["$","h2",null,{"children":"Related posts"}],[["$","$L13","glp-1-app-privacy-policy-checklist",{"href":"/blog/glp-1-app-privacy-policy-checklist/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/glp-1-app-privacy-policy-checklist.webp","srcSet":"/blog/glp-1-app-privacy-policy-checklist-320.webp 480w, /blog/glp-1-app-privacy-policy-checklist.webp 960w","sizes":"80px","alt":"A printed document with a pencil, a highlighter and reading glasses on a light blue desk.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"GLP-1 App Privacy Policy Checklist: 10 Things It Should Say"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L13","apple-app-privacy-label-health-app",{"href":"/blog/apple-app-privacy-label-health-app/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/apple-app-privacy-label-health-app.webp","srcSet":"/blog/apple-app-privacy-label-health-app-320.webp 480w, /blog/apple-app-privacy-label-health-app.webp 960w","sizes":"80px","alt":"A person in a cozy sweater reading something on a phone while sitting by a window with a mug.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"How to Read Apple App Privacy Labels for a Health App"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",7," min read"]}]]}]]}],["$","$L13","google-play-data-safety-health-app",{"href":"/blog/google-play-data-safety-health-app/","className":"side-post","children":[["$","span",null,{"className":"thumb","children":["$","img",null,{"className":"post-img","src":"/blog/google-play-data-safety-health-app.webp","srcSet":"/blog/google-play-data-safety-health-app-320.webp 480w, /blog/google-play-data-safety-health-app.webp 960w","sizes":"80px","alt":"Hands holding an Android-style phone over a picnic blanket with fruit and a water bottle in a park.","width":960,"height":640,"loading":"lazy","fetchPriority":"auto","decoding":"async"}]}],["$","span",null,{"children":[["$","b",null,{"children":"Google Play Data Safety: How to Read It for a Health App"}],["$","small",null,{"children":[["$","svg",null,{"width":13,"height":13,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20zM12 6v6l4 2","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," ",6," min read"]}]]}]]}]]]}],["$","section",null,{"className":"side-card tips","children":[["$","h2",null,{"children":[["$","svg",null,{"width":22,"height":22,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Quick tips"]}],["$","ul",null,{"children":[["$","li","Start with the store label: tracking and advertising first.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Start with the store label: tracking and advertising first."]}],["$","li","Use find-in-page for 8 words instead of reading every paragraph.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":"$L1d"}],"Use find-in-page for 8 words instead of reading every paragraph."]}],"$L1e"]}]]}],"$L1f"]}]
+:HL["/google-play-badge.png","image"]
+18:["$","aside",null,{"className":"pily-mid","aria-label":"From GLPily","children":[["$","img",null,{"src":"/pily/think.png","alt":"","width":195,"height":190,"loading":"lazy"}],["$","div",null,{"children":[["$","p",null,{"className":"pily-mid-title","children":"Pily’s tip"}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}],["$","p",null,{"className":"pily-mid-links","children":[["$","a",null,{"href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-compare-glp-1-app-privacy-scorecard-mid","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-compare-glp-1-app-privacy-scorecard-mid","children":"Get GLPily on Google Play"}],["$","span",null,{"aria-hidden":"true","children":" · "}],["$","a",null,{"href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-compare-glp-1-app-privacy-scorecard-mid","children":"Download on the App Store"}]]}]]}]]}]
+20:Tecd,<h2 id="how-should-you-read-the-results">How should you read the results?</h2>
+<ul>
+<li><strong>Mostly ✓ for both apps?</strong> Privacy is probably not your deciding factor. Choose on features and feel; our <a href="/blog/glpily-vs-shotsy-vs-meagain-2026/">7-day test-drive scorecard</a> helps with that.</li>
+<li><strong>One app has more &quot;?&quot; marks?</strong> That is not proof of bad behavior. It may just be a vague policy. But it is a reason to email the developer before logging sensitive data.</li>
+<li><strong>Any ✗ on advertising, selling or tracking?</strong> For health data, many people treat that as a deal-breaker.</li>
+<li><strong>Store label and policy contradict each other?</strong> Ask which is correct. A good developer will fix whichever one is out of date.</li>
+</ul>
+<h2 id="what-does-this-5-minute-method-miss">What does this 5-minute method miss?</h2>
+<p>Speed has trade-offs. This method does not check:</p>
+<ul>
+<li><strong>Security in practice.</strong> Labels describe intentions, not how well systems hold up.</li>
+<li><strong>What the app actually does on your phone.</strong> On iPhone, turning on <strong>App Privacy Report</strong> (Settings → Privacy &amp; Security) shows which domains each app contacts over 7 days.</li>
+<li><strong>Legal coverage.</strong> Most consumer tracking apps are not covered by HIPAA. Our post on <a href="/blog/hipaa-health-apps-myths/">HIPAA and health apps myths</a> explains which rules apply instead.</li>
+<li><strong>The finer points</strong> like breach notification, children&#39;s data or state-specific rights. For the full picture, use our <a href="/blog/glp-1-app-privacy-policy-checklist/">10-point privacy policy checklist</a>.</li>
+</ul>
+<h2 id="try-it-on-us">Try it on us</h2>
+<p>We publish GLPily, so feel free to run this exact scorecard on our App Store or Google Play page and our <a href="https://glpily.com/privacy" target="_blank" rel="noopener">privacy policy</a> against any other app you are considering. If something is unclear, email <a href="mailto:privacy@glpily.com">privacy@glpily.com</a>. An &quot;unclear&quot; you report helps us write a better policy.</p>
+<h2 id="re-run-it-when-apps-change">Re-run it when apps change</h2>
+<p>Privacy answers are not permanent. Developers can update store labels at any time, and policies change when apps add new features. Re-run the five minutes when an app adds AI features, a new integration, or sends you a &quot;we&#39;ve updated our privacy policy&quot; notice.</p>
+<h2 id="common-questions">Common questions</h2>
+<h3 id="is-five-minutes-really-enough">Is five minutes really enough?</h3>
+<p>Enough to compare and to spot red flags. Not enough to fully understand a policy. If an app passes the quick check and you plan to log a lot of sensitive data, the full checklist is worth fifteen more minutes.</p>
+<h3 id="what-if-a-policy-uses-different-words-than-my-search-terms">What if a policy uses different words than my search terms?</h3>
+<p>Try synonyms: &quot;disclose&quot; for share, &quot;keep&quot; or &quot;store&quot; for retain, &quot;erase&quot; or &quot;remove&quot; for delete, &quot;marketing&quot; for advertising.</p>
+<h3 id="should-i-avoid-any-app-with-a-mark">Should I avoid any app with a &quot;?&quot; mark?</h3>
+<p>Not automatically. Ask the developer. A quick, specific reply is a good sign; no reply tells you something too.</p>
+<h3 id="do-privacy-labels-and-policies-get-checked-by-apple-or-google">Do privacy labels and policies get checked by Apple or Google?</h3>
+<p>Both stores set the rules and definitions, but the developer is responsible for accuracy. Apple&#39;s label notes the information has not been verified by Apple, and Google says it cannot determine on its own how developers handle data.</p>
+19:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}]
+1a:["$","section",null,{"className":"sources-box","aria-labelledby":"sources","children":[["$","h2",null,{"id":"sources","children":"Sources and further reading"}],["$","ol",null,{"children":[["$","li","https://developer.apple.com/app-store/app-privacy-details/",{"children":["$","a",null,{"href":"https://developer.apple.com/app-store/app-privacy-details/","target":"_blank","rel":"noopener","children":"Apple Developer: App privacy details on the App Store"}]}],["$","li","https://support.apple.com/en-us/102399",{"children":["$","a",null,{"href":"https://support.apple.com/en-us/102399","target":"_blank","rel":"noopener","children":"Apple Support: About privacy information on the App Store"}]}],["$","li","https://support.apple.com/en-us/102188",{"children":["$","a",null,{"href":"https://support.apple.com/en-us/102188","target":"_blank","rel":"noopener","children":"Apple Support: About App Privacy Report"}]}],["$","li","https://support.google.com/googleplay/answer/11416267",{"children":["$","a",null,{"href":"https://support.google.com/googleplay/answer/11416267","target":"_blank","rel":"noopener","children":"Google Play Help: Understand app privacy and security practices with Google Play's Data safety section"}]}],["$","li","https://support.google.com/googleplay/android-developer/answer/10787469",{"children":["$","a",null,{"href":"https://support.google.com/googleplay/android-developer/answer/10787469","target":"_blank","rel":"noopener","children":"Play Console Help: Provide information for Google Play's Data safety section"}]}],["$","li","https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising",{"children":["$","a",null,{"href":"https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising","target":"_blank","rel":"noopener","children":"FTC: Enforcement Action to Bar GoodRx from Sharing Consumers' Sensitive Health Info for Advertising"}]}]]}]]}]
+21:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1b:["$","p",null,{"className":"post-disclaimer","children":["GLPily is a tracking companion, not a medical device, and doesn’t provide medical advice."," Written by the GLPily Editorial Team from the sources listed above."]}]
+1c:["$","section",null,{"className":"blog-cta","aria-labelledby":"cta-blog-compare-glp-1-app-privacy-scorecard","children":[["$","div",null,{"className":"blog-cta-copy","children":[["$","h2",null,{"id":"cta-blog-compare-glp-1-app-privacy-scorecard","children":"Make your GLP-1 journey easier to track 💚"}],["$","p",null,{"children":"Keep your shots, weight, food, water and symptom notes together with GLPily, and meet Pily, the little coach who answers from your own logs."}],["$","div",null,{"className":"blog-cta-links","children":[["$","a",null,{"className":"store-badge","href":"https://play.google.com/store/apps/details?id=com.glpily.app&referrer=utm_source%3Dglpily.com%26utm_medium%3Dblog%26utm_campaign%3Dblog-compare-glp-1-app-privacy-scorecard","target":"_blank","rel":"noopener","data-store":"google_play","data-placement":"blog-compare-glp-1-app-privacy-scorecard","children":["$","img",null,{"src":"/google-play-badge.png","alt":"Get GLPily on Google Play","width":564,"height":168}]}],["$","a",null,{"className":"store-text-btn","href":"https://apps.apple.com/app/glpily/id6811896991","target":"_blank","rel":"noopener","data-store":"app_store","data-placement":"blog-compare-glp-1-app-privacy-scorecard","children":[["$","svg",null,{"width":"16","height":"20","viewBox":"0 0 18 22","aria-hidden":"true","children":[["$","rect",null,{"x":"1.5","y":"1","width":"15","height":"20","rx":"3.5","fill":"none","stroke":"currentColor","strokeWidth":"1.8"}],["$","rect",null,{"x":"6.5","y":"17","width":"5","height":"1.6","rx":"0.8","fill":"currentColor"}]]}],["$","span",null,{"children":[["$","small",null,{"children":"Download GLPily on the"}],"App Store"]}]]}]]}]]}],["$","img",null,{"className":"blog-cta-pily","src":"/pily/wave.png","alt":"Pily, the GLPily axolotl mascot, waving","width":202,"height":155,"loading":"lazy"}],["$","ul",null,{"className":"blog-cta-feats","aria-label":"What GLPily tracks","children":[["$","li","Shot tracking",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M18 2l4 4M20 4l-9 9M14 6l4 4M12.5 7.5L4.5 15.5 3 21l5.5-1.5 8-8M6 15l3 3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Shot tracking"]}],["$","li","Water & symptoms",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.5S5.5 10 5.5 14.5a6.5 6.5 0 0 0 13 0C18.5 10 12 2.5 12 2.5z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Water & symptoms"]}],["$","li","Weight trends",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M4 20V14M9 20V9M14 20v-7M19 20V5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Weight trends"]}],["$","li","Journal",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M6 2h9l4 4v16H6zM9.5 11h6M9.5 15h6M9.5 7h3","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Journal"]}],["$","li","Food scanner",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 11h18a9 9 0 0 1-18 0zM9 7c0-2 1-3 1-5M14 7c0-2 1-3 1-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Food scanner"]}],["$","li","Progress photos",{"children":[["$","span",null,{"className":"ic","children":["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M3 7h4l2-3h6l2 3h4v13H3zM12 17a4 4 0 1 0 0-8 4 4 0 0 0 0 8z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],"Progress photos"]}]]}],["$","span",null,{"className":"cta-heart","aria-hidden":"true","children":["$","svg",null,{"width":46,"height":46,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]
+1d:["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]
+1e:["$","li","Mark \"unclear\" rather than guessing, then ask the developer.",{"children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20 6L9 17l-5-5","fill":"none","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}],"Mark \"unclear\" rather than guessing, then ask the developer."]}]
+1f:["$","section",null,{"className":"side-card glp-tip","children":[["$","h2",null,{"children":[["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z","fill":"currentColor","stroke":"currentColor","strokeWidth":"1.9","strokeLinecap":"round","strokeLinejoin":"round"}]}]," GLPily tip"]}],["$","p",null,{"children":"GLPily is free to track: shots, weight, food, water, symptoms and photos, with Apple Health and Health Connect sync."}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
+a:null
+f:[["$","title","0",{"children":"Compare GLP-1 App Privacy in 5 Minutes | GLPily"}],["$","meta","1",{"name":"description","content":"Compare GLP-1 app privacy in five minutes without the legal reading: check the store label, search the policy for 8 key words, fill in a simple scorecard."}],["$","meta","2",{"name":"author","content":"GLPily Editorial Team"}],["$","meta","3",{"name":"keywords","content":"compare GLP-1 app privacy,health app privacy scorecard,how to check app privacy quickly,privacy policy keywords to search,GLP-1 tracker privacy comparison"}],["$","link","4",{"rel":"canonical","href":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard/"}],["$","meta","5",{"property":"og:title","content":"Compare GLP-1 App Privacy in 5 Minutes: A Simple Scorecard"}],["$","meta","6",{"property":"og:description","content":"Compare GLP-1 app privacy in five minutes without the legal reading: check the store label, search the policy for 8 key words, fill in a simple scorecard."}],["$","meta","7",{"property":"og:url","content":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard/"}],["$","meta","8",{"property":"og:image","content":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard.webp"}],["$","meta","9",{"property":"og:image:width","content":"960"}],["$","meta","10",{"property":"og:image:height","content":"640"}],["$","meta","11",{"property":"og:image:alt","content":"A kitchen timer, a pencil and a small clipboard with a blank grid on a bright yellow table."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-10-27"}],["$","meta","14",{"property":"article:modified_time","content":"2026-10-27"}],["$","meta","15",{"property":"article:section","content":"Guides"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Compare GLP-1 App Privacy in 5 Minutes: A Simple Scorecard"}],["$","meta","18",{"name":"twitter:description","content":"Compare GLP-1 app privacy in five minutes without the legal reading: check the store label, search the policy for 8 key words, fill in a simple scorecard."}],["$","meta","19",{"name":"twitter:image","content":"https://glpily.com/blog/compare-glp-1-app-privacy-scorecard.webp"}],["$","link","20",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/icon-512.png","sizes":"512x512"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icon-180.png"}],["$","$L21","23",{}]]
